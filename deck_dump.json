@@ -1,0 +1,4047 @@
+[
+  {
+    "noteId": 1768994889356,
+    "profile": "Usuario 1",
+    "tags": [
+      "la::casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La cama",
+        "order": 0
+      },
+      "Back": {
+        "value": "El llit",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1768994889,
+    "cards": [
+      1768994889357
+    ]
+  },
+  {
+    "noteId": 1768994901866,
+    "profile": "Usuario 1",
+    "tags": [
+      "la::casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La chimenea",
+        "order": 0
+      },
+      "Back": {
+        "value": "La xemeneia",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1768994901,
+    "cards": [
+      1768994901866
+    ]
+  },
+  {
+    "noteId": 1768994913648,
+    "profile": "Usuario 1",
+    "tags": [
+      "la::casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El balcon",
+        "order": 0
+      },
+      "Back": {
+        "value": "El balcó",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1768994913,
+    "cards": [
+      1768994913649
+    ]
+  },
+  {
+    "noteId": 1769000598105,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El dormitorio",
+        "order": 0
+      },
+      "Back": {
+        "value": "El dormitori",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000598,
+    "cards": [
+      1769000598107
+    ]
+  },
+  {
+    "noteId": 1769000610015,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La ventana",
+        "order": 0
+      },
+      "Back": {
+        "value": "La finestra",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000610,
+    "cards": [
+      1769000610016
+    ]
+  },
+  {
+    "noteId": 1769000666753,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Plaza",
+        "order": 0
+      },
+      "Back": {
+        "value": "Plaça",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000666,
+    "cards": [
+      1769000666753
+    ]
+  },
+  {
+    "noteId": 1769000679512,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Casa",
+        "order": 0
+      },
+      "Back": {
+        "value": "Casa",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000679,
+    "cards": [
+      1769000679512
+    ]
+  },
+  {
+    "noteId": 1769000693601,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Calle ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Carrer",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000693,
+    "cards": [
+      1769000693601
+    ]
+  },
+  {
+    "noteId": 1769000701110,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Avenida",
+        "order": 0
+      },
+      "Back": {
+        "value": "Avinguda",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000701,
+    "cards": [
+      1769000701110
+    ]
+  },
+  {
+    "noteId": 1769000721958,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Barrio",
+        "order": 0
+      },
+      "Back": {
+        "value": "Barri",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000721,
+    "cards": [
+      1769000721958
+    ]
+  },
+  {
+    "noteId": 1769000732580,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Parque",
+        "order": 0
+      },
+      "Back": {
+        "value": "Parc",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000732,
+    "cards": [
+      1769000732580
+    ]
+  },
+  {
+    "noteId": 1769000748620,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Negocio",
+        "order": 0
+      },
+      "Back": {
+        "value": "Botiga",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000748,
+    "cards": [
+      1769000748620
+    ]
+  },
+  {
+    "noteId": 1769000922462,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Verano",
+        "order": 0
+      },
+      "Back": {
+        "value": "Estiu",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000922,
+    "cards": [
+      1769000922462
+    ]
+  },
+  {
+    "noteId": 1769000934169,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Invierno",
+        "order": 0
+      },
+      "Back": {
+        "value": "Hivern",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111352,
+    "cards": [
+      1769000934169
+    ]
+  },
+  {
+    "noteId": 1769000945231,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Semana",
+        "order": 0
+      },
+      "Back": {
+        "value": "Setimana",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000945,
+    "cards": [
+      1769000945231
+    ]
+  },
+  {
+    "noteId": 1769000953066,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Día",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dia",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000953,
+    "cards": [
+      1769000953066
+    ]
+  },
+  {
+    "noteId": 1769000984855,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Enero",
+        "order": 0
+      },
+      "Back": {
+        "value": "Genar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000984,
+    "cards": [
+      1769000984855
+    ]
+  },
+  {
+    "noteId": 1769000990346,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Febrero",
+        "order": 0
+      },
+      "Back": {
+        "value": "Februar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769000990,
+    "cards": [
+      1769000990346
+    ]
+  },
+  {
+    "noteId": 1769000995703,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Marzo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Març",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769509148,
+    "cards": [
+      1769000995703
+    ]
+  },
+  {
+    "noteId": 1769001007887,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Abril",
+        "order": 0
+      },
+      "Back": {
+        "value": "Abril",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001007,
+    "cards": [
+      1769001007887
+    ]
+  },
+  {
+    "noteId": 1769001012942,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Junio",
+        "order": 0
+      },
+      "Back": {
+        "value": "Juny",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001012,
+    "cards": [
+      1769001012942
+    ]
+  },
+  {
+    "noteId": 1769001017600,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Julio",
+        "order": 0
+      },
+      "Back": {
+        "value": "July",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001017,
+    "cards": [
+      1769001017600
+    ]
+  },
+  {
+    "noteId": 1769001035574,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Diciembre",
+        "order": 0
+      },
+      "Back": {
+        "value": "Decembre",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001035,
+    "cards": [
+      1769001035574
+    ]
+  },
+  {
+    "noteId": 1769001045174,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Noviembre",
+        "order": 0
+      },
+      "Back": {
+        "value": "Novembra",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001045,
+    "cards": [
+      1769001045174
+    ]
+  },
+  {
+    "noteId": 1769001076761,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La tarde",
+        "order": 0
+      },
+      "Back": {
+        "value": "La tarda ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001076,
+    "cards": [
+      1769001076761
+    ]
+  },
+  {
+    "noteId": 1769001084020,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La noche",
+        "order": 0
+      },
+      "Back": {
+        "value": "La Nuit ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001084,
+    "cards": [
+      1769001084021
+    ]
+  },
+  {
+    "noteId": 1769001105582,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Despues",
+        "order": 0
+      },
+      "Back": {
+        "value": "Despres",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769001105,
+    "cards": [
+      1769001105582
+    ]
+  },
+  {
+    "noteId": 1769002066791,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Padre/madre",
+        "order": 0
+      },
+      "Back": {
+        "value": "Pere/mare",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002066,
+    "cards": [
+      1769002066792
+    ]
+  },
+  {
+    "noteId": 1769002087754,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Hermano/hermana",
+        "order": 0
+      },
+      "Back": {
+        "value": "Germano/germana",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002087,
+    "cards": [
+      1769002087754
+    ]
+  },
+  {
+    "noteId": 1769002266358,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Tío/tia",
+        "order": 0
+      },
+      "Back": {
+        "value": "Oncle/oncla-tiata",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002266,
+    "cards": [
+      1769002266358
+    ]
+  },
+  {
+    "noteId": 1769002292872,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Chico/chica",
+        "order": 0
+      },
+      "Back": {
+        "value": "Noi/noia",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002292,
+    "cards": [
+      1769002292873
+    ]
+  },
+  {
+    "noteId": 1769002354781,
+    "profile": "Usuario 1",
+    "tags": [
+      "roba"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ropa",
+        "order": 0
+      },
+      "Back": {
+        "value": "Roba",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002354,
+    "cards": [
+      1769002354782
+    ]
+  },
+  {
+    "noteId": 1769002875762,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Escribir",
+        "order": 0
+      },
+      "Back": {
+        "value": "Escriure",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002875,
+    "cards": [
+      1769002875767
+    ]
+  },
+  {
+    "noteId": 1769002889215,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Leer",
+        "order": 0
+      },
+      "Back": {
+        "value": "Llegir",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002889,
+    "cards": [
+      1769002889215
+    ]
+  },
+  {
+    "noteId": 1769002899310,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ver ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Veure<br><br>Veig<br>Veus<br>Veu<br>Veiem<br>Veieu<br>Veuen",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770632277,
+    "cards": [
+      1769002899311
+    ]
+  },
+  {
+    "noteId": 1769002926547,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Tener",
+        "order": 0
+      },
+      "Back": {
+        "value": "Tenir<br><br>Tinc<br>Tens<br>Té<br>Tenim<br>Teniu<br>Tenen",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770199826,
+    "cards": [
+      1769002926547
+    ]
+  },
+  {
+    "noteId": 1769002930637,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Amar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Amar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769002930,
+    "cards": [
+      1769002930637
+    ]
+  },
+  {
+    "noteId": 1769002950266,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Vivir",
+        "order": 0
+      },
+      "Back": {
+        "value": "Viure<br><br>Visc<br>Vius<br>Viu<br>Vivim<br>Viviu<br>Viven<br>",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769509524,
+    "cards": [
+      1769002950266
+    ]
+  },
+  {
+    "noteId": 1769003044173,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Salir",
+        "order": 0
+      },
+      "Back": {
+        "value": "Sortir",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769003044,
+    "cards": [
+      1769003044173
+    ]
+  },
+  {
+    "noteId": 1769003062064,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Entrar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Entrar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769003062,
+    "cards": [
+      1769003062064
+    ]
+  },
+  {
+    "noteId": 1769014308763,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La mañana ",
+        "order": 0
+      },
+      "Back": {
+        "value": "El matí",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014308,
+    "cards": [
+      1769014308768
+    ]
+  },
+  {
+    "noteId": 1769014324411,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El mediodia",
+        "order": 0
+      },
+      "Back": {
+        "value": "El migdia",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014324,
+    "cards": [
+      1769014324411
+    ]
+  },
+  {
+    "noteId": 1769014347859,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La madrugada",
+        "order": 0
+      },
+      "Back": {
+        "value": "La matinada",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014347,
+    "cards": [
+      1769014347860
+    ]
+  },
+  {
+    "noteId": 1769014361782,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Desayuno",
+        "order": 0
+      },
+      "Back": {
+        "value": "Esmorzar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014361,
+    "cards": [
+      1769014361783
+    ]
+  },
+  {
+    "noteId": 1769014373767,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Almuerzo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dinar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014373,
+    "cards": [
+      1769014373767
+    ]
+  },
+  {
+    "noteId": 1769014384913,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Merienda",
+        "order": 0
+      },
+      "Back": {
+        "value": "Berenar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014384,
+    "cards": [
+      1769014384913
+    ]
+  },
+  {
+    "noteId": 1769014393093,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Cena",
+        "order": 0
+      },
+      "Back": {
+        "value": "Sopar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014393,
+    "cards": [
+      1769014393093
+    ]
+  },
+  {
+    "noteId": 1769014421565,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ahora",
+        "order": 0
+      },
+      "Back": {
+        "value": "Ara",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014421,
+    "cards": [
+      1769014421565
+    ]
+  },
+  {
+    "noteId": 1769014432014,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Hoy",
+        "order": 0
+      },
+      "Back": {
+        "value": "Avuí",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014432,
+    "cards": [
+      1769014432014
+    ]
+  },
+  {
+    "noteId": 1769014443246,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Luego",
+        "order": 0
+      },
+      "Back": {
+        "value": "Aviat",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014443,
+    "cards": [
+      1769014443246
+    ]
+  },
+  {
+    "noteId": 1769014459203,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Mañana",
+        "order": 0
+      },
+      "Back": {
+        "value": "Demà",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014459,
+    "cards": [
+      1769014459203
+    ]
+  },
+  {
+    "noteId": 1769014467199,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ayer",
+        "order": 0
+      },
+      "Back": {
+        "value": "Ahir",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014467,
+    "cards": [
+      1769014467199
+    ]
+  },
+  {
+    "noteId": 1769014478515,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Sin",
+        "order": 0
+      },
+      "Back": {
+        "value": "Sensa",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014478,
+    "cards": [
+      1769014478515
+    ]
+  },
+  {
+    "noteId": 1769014503672,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Hijo/hija",
+        "order": 0
+      },
+      "Back": {
+        "value": "Fil/fila",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014503,
+    "cards": [
+      1769014503673
+    ]
+  },
+  {
+    "noteId": 1769014590109,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Primo/prima",
+        "order": 0
+      },
+      "Back": {
+        "value": "Cosí/cosina",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014590,
+    "cards": [
+      1769014590110
+    ]
+  },
+  {
+    "noteId": 1769014619907,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Sobrino/sobrina",
+        "order": 0
+      },
+      "Back": {
+        "value": "Nebot/neboda",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014619,
+    "cards": [
+      1769014619907
+    ]
+  },
+  {
+    "noteId": 1769014648067,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Dar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Doner",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014648,
+    "cards": [
+      1769014648067
+    ]
+  },
+  {
+    "noteId": 1769014681414,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Llamarse",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dir-se<br><br>Em dic<br>Et dius<br>Es diu <br>Ens diem <br>Us dieu<br>És diuen",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111872,
+    "cards": [
+      1769014681414
+    ]
+  },
+  {
+    "noteId": 1769014720140,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes",
+      "verbes::irregular"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ser",
+        "order": 0
+      },
+      "Back": {
+        "value": "Ser<br><br>Soc<br>Ets<br>És<br>Som<br>Sou<br>Són",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769509388,
+    "cards": [
+      1769014720140
+    ]
+  },
+  {
+    "noteId": 1769014756596,
+    "profile": "Usuario 1",
+    "tags": [
+      "colors"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Rojo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Vermello",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014756,
+    "cards": [
+      1769014756596
+    ]
+  },
+  {
+    "noteId": 1769014765961,
+    "profile": "Usuario 1",
+    "tags": [
+      "colors"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Verde",
+        "order": 0
+      },
+      "Back": {
+        "value": "Verde",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014765,
+    "cards": [
+      1769014765962
+    ]
+  },
+  {
+    "noteId": 1769014776447,
+    "profile": "Usuario 1",
+    "tags": [
+      "colors"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Amarillo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Groga",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014776,
+    "cards": [
+      1769014776447
+    ]
+  },
+  {
+    "noteId": 1769014802991,
+    "profile": "Usuario 1",
+    "tags": [
+      "profesiones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Medico",
+        "order": 0
+      },
+      "Back": {
+        "value": "Metge",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014802,
+    "cards": [
+      1769014802991
+    ]
+  },
+  {
+    "noteId": 1769014811305,
+    "profile": "Usuario 1",
+    "tags": [
+      "profesiones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Plomero",
+        "order": 0
+      },
+      "Back": {
+        "value": "Lampista",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014811,
+    "cards": [
+      1769014811305
+    ]
+  },
+  {
+    "noteId": 1769014828435,
+    "profile": "Usuario 1",
+    "tags": [
+      "profesiones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Cocinero",
+        "order": 0
+      },
+      "Back": {
+        "value": "Cuinera/cuinè",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014828,
+    "cards": [
+      1769014828435
+    ]
+  },
+  {
+    "noteId": 1769014850216,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Hacer",
+        "order": 0
+      },
+      "Back": {
+        "value": "Fer<br><br>Faig <br>Fàs<br>Fa<br>Fem<br>Feu<br>Fan",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770109889,
+    "cards": [
+      1769014850216
+    ]
+  },
+  {
+    "noteId": 1769014890223,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Octubre",
+        "order": 0
+      },
+      "Back": {
+        "value": "Octubre",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014890,
+    "cards": [
+      1769014890223
+    ]
+  },
+  {
+    "noteId": 1769014901003,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Septiembre",
+        "order": 0
+      },
+      "Back": {
+        "value": "Setembre",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014901,
+    "cards": [
+      1769014901004
+    ]
+  },
+  {
+    "noteId": 1769014907329,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Agosto",
+        "order": 0
+      },
+      "Back": {
+        "value": "Agost",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014907,
+    "cards": [
+      1769014907329
+    ]
+  },
+  {
+    "noteId": 1769014914073,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Mayo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Maig",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014914,
+    "cards": [
+      1769014914074
+    ]
+  },
+  {
+    "noteId": 1769014936286,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El otoño",
+        "order": 0
+      },
+      "Back": {
+        "value": "La tardor",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014936,
+    "cards": [
+      1769014936286
+    ]
+  },
+  {
+    "noteId": 1769014966064,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Recomendar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Recomanar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014966,
+    "cards": [
+      1769014966064
+    ]
+  },
+  {
+    "noteId": 1769014973703,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Estar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Estar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014973,
+    "cards": [
+      1769014973703
+    ]
+  },
+  {
+    "noteId": 1769014991995,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Haber",
+        "order": 0
+      },
+      "Back": {
+        "value": "Haver-hi",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769014991,
+    "cards": [
+      1769014991995
+    ]
+  },
+  {
+    "noteId": 1769015016813,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Delante",
+        "order": 0
+      },
+      "Back": {
+        "value": "Devant",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015016,
+    "cards": [
+      1769015016813
+    ]
+  },
+  {
+    "noteId": 1769015024509,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Detras",
+        "order": 0
+      },
+      "Back": {
+        "value": "Derrere",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015024,
+    "cards": [
+      1769015024509
+    ]
+  },
+  {
+    "noteId": 1769015037543,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Derecha",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dreta",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015037,
+    "cards": [
+      1769015037543
+    ]
+  },
+  {
+    "noteId": 1769015045221,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Izquierda",
+        "order": 0
+      },
+      "Back": {
+        "value": "Esquerra",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015045,
+    "cards": [
+      1769015045221
+    ]
+  },
+  {
+    "noteId": 1769015057903,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Entrando ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Entrant",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015057,
+    "cards": [
+      1769015057904
+    ]
+  },
+  {
+    "noteId": 1769015065334,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Saliendo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Sortint",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015065,
+    "cards": [
+      1769015065335
+    ]
+  },
+  {
+    "noteId": 1769015071859,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "A dentro",
+        "order": 0
+      },
+      "Back": {
+        "value": "A dins",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015071,
+    "cards": [
+      1769015071859
+    ]
+  },
+  {
+    "noteId": 1769015083625,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Afuera",
+        "order": 0
+      },
+      "Back": {
+        "value": "A fora",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015083,
+    "cards": [
+      1769015083625
+    ]
+  },
+  {
+    "noteId": 1769015106107,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Al fondo ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Al fons/al final",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015106,
+    "cards": [
+      1769015106108
+    ]
+  },
+  {
+    "noteId": 1769015132492,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Apellido",
+        "order": 0
+      },
+      "Back": {
+        "value": "Cognome",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015132,
+    "cards": [
+      1769015132493
+    ]
+  },
+  {
+    "noteId": 1769015136800,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Edad",
+        "order": 0
+      },
+      "Back": {
+        "value": "Edat",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015136,
+    "cards": [
+      1769015136800
+    ]
+  },
+  {
+    "noteId": 1769015152622,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Profesion",
+        "order": 0
+      },
+      "Back": {
+        "value": "Professió",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015152,
+    "cards": [
+      1769015152622
+    ]
+  },
+  {
+    "noteId": 1769015171315,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Demandar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Demandar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015171,
+    "cards": [
+      1769015171315
+    ]
+  },
+  {
+    "noteId": 1769015227010,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "La mesa",
+        "order": 0
+      },
+      "Back": {
+        "value": "La teula",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015227,
+    "cards": [
+      1769015227010
+    ]
+  },
+  {
+    "noteId": 1769015236841,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El comedor",
+        "order": 0
+      },
+      "Back": {
+        "value": "El menjador",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015236,
+    "cards": [
+      1769015236841
+    ]
+  },
+  {
+    "noteId": 1769015245970,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El living",
+        "order": 0
+      },
+      "Back": {
+        "value": "La sala d'estar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015245,
+    "cards": [
+      1769015245971
+    ]
+  },
+  {
+    "noteId": 1769015263881,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El baño",
+        "order": 0
+      },
+      "Back": {
+        "value": "El bany/lavabo",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015263,
+    "cards": [
+      1769015263881
+    ]
+  },
+  {
+    "noteId": 1769015271491,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Cocina",
+        "order": 0
+      },
+      "Back": {
+        "value": "Cuina",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015271,
+    "cards": [
+      1769015271492
+    ]
+  },
+  {
+    "noteId": 1769015285580,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Garage",
+        "order": 0
+      },
+      "Back": {
+        "value": "El garatge",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015285,
+    "cards": [
+      1769015285580
+    ]
+  },
+  {
+    "noteId": 1769015292707,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Puerta",
+        "order": 0
+      },
+      "Back": {
+        "value": "Porta",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015292,
+    "cards": [
+      1769015292707
+    ]
+  },
+  {
+    "noteId": 1769015306196,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Recibidor",
+        "order": 0
+      },
+      "Back": {
+        "value": "Rebedor",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015306,
+    "cards": [
+      1769015306196
+    ]
+  },
+  {
+    "noteId": 1769015324706,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El lavadero",
+        "order": 0
+      },
+      "Back": {
+        "value": "El safareig",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015324,
+    "cards": [
+      1769015324706
+    ]
+  },
+  {
+    "noteId": 1769015340597,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El pasillo",
+        "order": 0
+      },
+      "Back": {
+        "value": "El passadís",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015340,
+    "cards": [
+      1769015340597
+    ]
+  },
+  {
+    "noteId": 1769015372242,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Año",
+        "order": 0
+      },
+      "Back": {
+        "value": "Any",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015372,
+    "cards": [
+      1769015372243
+    ]
+  },
+  {
+    "noteId": 1769015395142,
+    "profile": "Usuario 1",
+    "tags": [
+      "profesiones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "El trabajo",
+        "order": 0
+      },
+      "Back": {
+        "value": "La feina",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015395,
+    "cards": [
+      1769015395142
+    ]
+  },
+  {
+    "noteId": 1769015412137,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Lejos",
+        "order": 0
+      },
+      "Back": {
+        "value": "Lluny",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015412,
+    "cards": [
+      1769015412137
+    ]
+  },
+  {
+    "noteId": 1769015416192,
+    "profile": "Usuario 1",
+    "tags": [
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Cerca",
+        "order": 0
+      },
+      "Back": {
+        "value": "Prop",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769015416,
+    "cards": [
+      1769015416192
+    ]
+  },
+  {
+    "noteId": 1769015431098,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis",
+      "posiciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Largo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Llac",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112646,
+    "cards": [
+      1769015431098
+    ]
+  },
+  {
+    "noteId": 1769015439929,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Corto",
+        "order": 0
+      },
+      "Back": {
+        "value": "Curt",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112622,
+    "cards": [
+      1769015439929
+    ]
+  },
+  {
+    "noteId": 1769506335656,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Presupuesto ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Presupost",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1769506335,
+    "cards": [
+      1769506335656
+    ]
+  },
+  {
+    "noteId": 1770110123223,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Poder",
+        "order": 0
+      },
+      "Back": {
+        "value": "Poder<br><br>Puc<br>Pots<br>Pot<br>Podem <br>Podeu<br>Poden",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770110123,
+    "cards": [
+      1770110123225
+    ]
+  },
+  {
+    "noteId": 1770111191451,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Mío, tuyo,suyo ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Meu/meva/meus/meves<br>Teu<br>Seu<br>Nostre<br>Vostre<br>Seu",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111191,
+    "cards": [
+      1770111191457
+    ]
+  },
+  {
+    "noteId": 1770111234092,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Siempre",
+        "order": 0
+      },
+      "Back": {
+        "value": "Sempre",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111234,
+    "cards": [
+      1770111234093
+    ]
+  },
+  {
+    "noteId": 1770111243730,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Seguido",
+        "order": 0
+      },
+      "Back": {
+        "value": "Soivnt",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111243,
+    "cards": [
+      1770111243731
+    ]
+  },
+  {
+    "noteId": 1770111256370,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Aveces",
+        "order": 0
+      },
+      "Back": {
+        "value": "De vegades",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111256,
+    "cards": [
+      1770111256370
+    ]
+  },
+  {
+    "noteId": 1770111324573,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Primavera",
+        "order": 0
+      },
+      "Back": {
+        "value": "Primavera ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111324,
+    "cards": [
+      1770111324573
+    ]
+  },
+  {
+    "noteId": 1770111387219,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Fiesta",
+        "order": 0
+      },
+      "Back": {
+        "value": "Festa",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111387,
+    "cards": [
+      1770111387219
+    ]
+  },
+  {
+    "noteId": 1770111417592,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Lunes",
+        "order": 0
+      },
+      "Back": {
+        "value": "Diluns",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111417,
+    "cards": [
+      1770111417593
+    ]
+  },
+  {
+    "noteId": 1770111426689,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Martes",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dimarts",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111426,
+    "cards": [
+      1770111426689
+    ]
+  },
+  {
+    "noteId": 1770111442454,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Miercoles",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dimecres ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111442,
+    "cards": [
+      1770111442454
+    ]
+  },
+  {
+    "noteId": 1770111447729,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Jueves",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dijous",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111447,
+    "cards": [
+      1770111447729
+    ]
+  },
+  {
+    "noteId": 1770111454252,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Viernes",
+        "order": 0
+      },
+      "Back": {
+        "value": "Divendres ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111454,
+    "cards": [
+      1770111454252
+    ]
+  },
+  {
+    "noteId": 1770111460558,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Sabado",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dissabte ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111460,
+    "cards": [
+      1770111460559
+    ]
+  },
+  {
+    "noteId": 1770111471505,
+    "profile": "Usuario 1",
+    "tags": [
+      "temps"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Domingo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Diumenge ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111471,
+    "cards": [
+      1770111471506
+    ]
+  },
+  {
+    "noteId": 1770111538836,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Verdaderas",
+        "order": 0
+      },
+      "Back": {
+        "value": "Veritables",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111538,
+    "cards": [
+      1770111538836
+    ]
+  },
+  {
+    "noteId": 1770111548447,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Falsas",
+        "order": 0
+      },
+      "Back": {
+        "value": "Falses",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111548,
+    "cards": [
+      1770111548447
+    ]
+  },
+  {
+    "noteId": 1770111586700,
+    "profile": "Usuario 1",
+    "tags": [
+      "preguntas"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Que, cual",
+        "order": 0
+      },
+      "Back": {
+        "value": "Quin/quina/quines",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111586,
+    "cards": [
+      1770111586700
+    ]
+  },
+  {
+    "noteId": 1770111591802,
+    "profile": "Usuario 1",
+    "tags": [
+      "preguntas"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Como",
+        "order": 0
+      },
+      "Back": {
+        "value": "Com",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111591,
+    "cards": [
+      1770111591802
+    ]
+  },
+  {
+    "noteId": 1770111797664,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes::irregular"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ponerse",
+        "order": 0
+      },
+      "Back": {
+        "value": "Posar-se<br><br>Em poso<br>Et poses<br>És posa <br>Ens posem<br>Eu poseu<br>És posen",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111826,
+    "cards": [
+      1770111797664
+    ]
+  },
+  {
+    "noteId": 1770111933973,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes::irregular"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ir",
+        "order": 0
+      },
+      "Back": {
+        "value": "Anar<br><br>Vaig<br>Vas<br>Va<br>Anem<br>Aneu<br>Van",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111933,
+    "cards": [
+      1770111933973
+    ]
+  },
+  {
+    "noteId": 1770111984198,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Siesta",
+        "order": 0
+      },
+      "Back": {
+        "value": "Migdiada",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770111984,
+    "cards": [
+      1770111984198
+    ]
+  },
+  {
+    "noteId": 1770112007049,
+    "profile": "Usuario 1",
+    "tags": [
+      "llocs"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Teatro",
+        "order": 0
+      },
+      "Back": {
+        "value": "Teatre",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112007,
+    "cards": [
+      1770112007050
+    ]
+  },
+  {
+    "noteId": 1770112404216,
+    "profile": "Usuario 1",
+    "tags": [
+      "pronoms"
+    ],
+    "fields": {
+      "Front": {
+        "value": "A mí/a ti/ a el/ a nosotros/ a vostre/ a ells",
+        "order": 0
+      },
+      "Back": {
+        "value": "Em-> me<br>Et -> te<br>Li .. <br>Ens<br>Us<br>Els",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112404,
+    "cards": [
+      1770112404218
+    ]
+  },
+  {
+    "noteId": 1770112457281,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Alquiler",
+        "order": 0
+      },
+      "Back": {
+        "value": "Lloger",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112457,
+    "cards": [
+      1770112457281
+    ]
+  },
+  {
+    "noteId": 1770112545936,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Regular -ar",
+        "order": 0
+      },
+      "Back": {
+        "value": "-o<br>-es<br>-a<br>-em<br>-eu<br>-en",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112545,
+    "cards": [
+      1770112545936
+    ]
+  },
+  {
+    "noteId": 1770112673779,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Caliente",
+        "order": 0
+      },
+      "Back": {
+        "value": "Calent/calenta",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112673,
+    "cards": [
+      1770112673779
+    ]
+  },
+  {
+    "noteId": 1770112683571,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Frio",
+        "order": 0
+      },
+      "Back": {
+        "value": "Fred/freda",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112683,
+    "cards": [
+      1770112683571
+    ]
+  },
+  {
+    "noteId": 1770112695925,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Caluroso",
+        "order": 0
+      },
+      "Back": {
+        "value": "Càlid/calida",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112695,
+    "cards": [
+      1770112695925
+    ]
+  },
+  {
+    "noteId": 1770112708571,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Fresco",
+        "order": 0
+      },
+      "Back": {
+        "value": "Fresc/fresca",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112708,
+    "cards": [
+      1770112708571
+    ]
+  },
+  {
+    "noteId": 1770112727112,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Dulce",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dolç/dolça",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112727,
+    "cards": [
+      1770112727112
+    ]
+  },
+  {
+    "noteId": 1770112742629,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Salado",
+        "order": 0
+      },
+      "Back": {
+        "value": "Salat/salada",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112742,
+    "cards": [
+      1770112742629
+    ]
+  },
+  {
+    "noteId": 1770112759810,
+    "profile": "Usuario 1",
+    "tags": [
+      "comidas"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Ensalada",
+        "order": 0
+      },
+      "Back": {
+        "value": "Amanida",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112759,
+    "cards": [
+      1770112759811
+    ]
+  },
+  {
+    "noteId": 1770112781607,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Seco",
+        "order": 0
+      },
+      "Back": {
+        "value": "Sec/seca",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112781,
+    "cards": [
+      1770112781607
+    ]
+  },
+  {
+    "noteId": 1770112795025,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Duro",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dur/dura",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770112795,
+    "cards": [
+      1770112795025
+    ]
+  },
+  {
+    "noteId": 1770115619670,
+    "profile": "Usuario 1",
+    "tags": [
+      "numeros"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Dieciséis ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Setze",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770115619,
+    "cards": [
+      1770115619674
+    ]
+  },
+  {
+    "noteId": 1770115633609,
+    "profile": "Usuario 1",
+    "tags": [
+      "numeros"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Segundo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Segon/segona",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770115633,
+    "cards": [
+      1770115633610
+    ]
+  },
+  {
+    "noteId": 1770115747668,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Luna",
+        "order": 0
+      },
+      "Back": {
+        "value": "Lluna",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770115747,
+    "cards": [
+      1770115747668
+    ]
+  },
+  {
+    "noteId": 1770115927844,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Amigo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Amic",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770115927,
+    "cards": [
+      1770115927844
+    ]
+  },
+  {
+    "noteId": 1770116236822,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Bruixa",
+        "order": 0
+      },
+      "Back": {
+        "value": "Brujula",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770116236,
+    "cards": [
+      1770116236822
+    ]
+  },
+  {
+    "noteId": 1770116254682,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Escoba",
+        "order": 0
+      },
+      "Back": {
+        "value": "Escombra",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770116254,
+    "cards": [
+      1770116254682
+    ]
+  },
+  {
+    "noteId": 1770116403606,
+    "profile": "Usuario 1",
+    "tags": [
+      "comidas"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Pez",
+        "order": 0
+      },
+      "Back": {
+        "value": "Peix",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770116403,
+    "cards": [
+      1770116403606
+    ]
+  },
+  {
+    "noteId": 1770116951077,
+    "profile": "Usuario 1",
+    "tags": [
+      "animales"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Perro",
+        "order": 0
+      },
+      "Back": {
+        "value": "Gos",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770116951,
+    "cards": [
+      1770116951078
+    ]
+  },
+  {
+    "noteId": 1770117075085,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Luz",
+        "order": 0
+      },
+      "Back": {
+        "value": "Llum",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770117075,
+    "cards": [
+      1770117075085
+    ]
+  },
+  {
+    "noteId": 1770629240982,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Ruido",
+        "order": 0
+      },
+      "Back": {
+        "value": "Soroll",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629240,
+    "cards": [
+      1770629240985
+    ]
+  },
+  {
+    "noteId": 1770629253992,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Silencio ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Silencio",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629253,
+    "cards": [
+      1770629253992
+    ]
+  },
+  {
+    "noteId": 1770629276109,
+    "profile": "Usuario 1",
+    "tags": [
+      "relaciones"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Vecinos",
+        "order": 0
+      },
+      "Back": {
+        "value": "Veïns<br><br>Veí/veïna",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770632374,
+    "cards": [
+      1770629276109
+    ]
+  },
+  {
+    "noteId": 1770629303886,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Agarrar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Agafar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629303,
+    "cards": [
+      1770629303886
+    ]
+  },
+  {
+    "noteId": 1770629336420,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Saber",
+        "order": 0
+      },
+      "Back": {
+        "value": "Saber <br><br>Sé <br>Saps<br>Sap<br>Sabem<br>Sabeu<br>Saben",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629336,
+    "cards": [
+      1770629336420
+    ]
+  },
+  {
+    "noteId": 1770629358491,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Girar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Tombar/girar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629358,
+    "cards": [
+      1770629358491
+    ]
+  },
+  {
+    "noteId": 1770629374171,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Fiebre",
+        "order": 0
+      },
+      "Back": {
+        "value": "Febre",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629374,
+    "cards": [
+      1770629374172
+    ]
+  },
+  {
+    "noteId": 1770629388381,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Libro",
+        "order": 0
+      },
+      "Back": {
+        "value": "Libre",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629388,
+    "cards": [
+      1770629388381
+    ]
+  },
+  {
+    "noteId": 1770629409970,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Baja",
+        "order": 0
+      },
+      "Back": {
+        "value": "Baixa",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629409,
+    "cards": [
+      1770629409970
+    ]
+  },
+  {
+    "noteId": 1770629421277,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Esquina",
+        "order": 0
+      },
+      "Back": {
+        "value": "Cantonada",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629421,
+    "cards": [
+      1770629421277
+    ]
+  },
+  {
+    "noteId": 1770629427053,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Hasta",
+        "order": 0
+      },
+      "Back": {
+        "value": "Fins",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629427,
+    "cards": [
+      1770629427054
+    ]
+  },
+  {
+    "noteId": 1770629557798,
+    "profile": "Usuario 1",
+    "tags": [
+      "transport"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Tren<br>Tranvía<br>Autobús<br>Bicicleta<br>Moto<br>Patinete<br>Taxi<br>Coche<br>A pie",
+        "order": 0
+      },
+      "Back": {
+        "value": "Tren<br>Tramvia<br>Autobús<br>Bicicleta<br>Moto<br>El patinet<br>El taxi<br>El cotxe<br>La moto<br>A peu",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629557,
+    "cards": [
+      1770629557798
+    ]
+  },
+  {
+    "noteId": 1770629595552,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Probar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Probar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629595,
+    "cards": [
+      1770629595553
+    ]
+  },
+  {
+    "noteId": 1770629602718,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Parar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Aturar",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629602,
+    "cards": [
+      1770629602719
+    ]
+  },
+  {
+    "noteId": 1770629621050,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Caro",
+        "order": 0
+      },
+      "Back": {
+        "value": "Car",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629621,
+    "cards": [
+      1770629621050
+    ]
+  },
+  {
+    "noteId": 1770629634978,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Dificil",
+        "order": 0
+      },
+      "Back": {
+        "value": "Dificil",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629634,
+    "cards": [
+      1770629634978
+    ]
+  },
+  {
+    "noteId": 1770629662670,
+    "profile": "Usuario 1",
+    "tags": [
+      "cos"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Cuerpo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Cos",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629662,
+    "cards": [
+      1770629662670
+    ]
+  },
+  {
+    "noteId": 1770629674712,
+    "profile": "Usuario 1",
+    "tags": [
+      "cos"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Cabello ",
+        "order": 0
+      },
+      "Back": {
+        "value": "Cabell ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629674,
+    "cards": [
+      1770629674712
+    ]
+  },
+  {
+    "noteId": 1770629684730,
+    "profile": "Usuario 1",
+    "tags": [
+      "cos"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Piel",
+        "order": 0
+      },
+      "Back": {
+        "value": "Pell",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629684,
+    "cards": [
+      1770629684730
+    ]
+  },
+  {
+    "noteId": 1770629723961,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Quedarse",
+        "order": 0
+      },
+      "Back": {
+        "value": "Quedar-se <br><br><br>Em quedo<br>...",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629723,
+    "cards": [
+      1770629723961
+    ]
+  },
+  {
+    "noteId": 1770629786703,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Lleno/pleno",
+        "order": 0
+      },
+      "Back": {
+        "value": "Ple",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629786,
+    "cards": [
+      1770629786704
+    ]
+  },
+  {
+    "noteId": 1770629794396,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Vacio",
+        "order": 0
+      },
+      "Back": {
+        "value": "Buido",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629794,
+    "cards": [
+      1770629794396
+    ]
+  },
+  {
+    "noteId": 1770629851407,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Mismo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Mateix",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629851,
+    "cards": [
+      1770629851407
+    ]
+  },
+  {
+    "noteId": 1770629903040,
+    "profile": "Usuario 1",
+    "tags": [
+      "colors"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Azul",
+        "order": 0
+      },
+      "Back": {
+        "value": "Blau<br><br>Blava/..",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770629903,
+    "cards": [
+      1770629903040
+    ]
+  },
+  {
+    "noteId": 1770632070431,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Bailar",
+        "order": 0
+      },
+      "Back": {
+        "value": "Ballar<br><br>",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770632070,
+    "cards": [
+      1770632070433
+    ]
+  },
+  {
+    "noteId": 1770632311397,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Querer",
+        "order": 0
+      },
+      "Back": {
+        "value": "Voler<br><br>Vull<br>Vols<br>Vol<br>Volem<br>Voleu<br>Volen",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770632311,
+    "cards": [
+      1770632311398
+    ]
+  },
+  {
+    "noteId": 1770632340082,
+    "profile": "Usuario 1",
+    "tags": [
+      "verbes"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Beber",
+        "order": 0
+      },
+      "Back": {
+        "value": "Beure<br><br>Bec<br>Veus<br>Beu<br>Bevem<br>Beveu<br>Beuen",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770632340,
+    "cards": [
+      1770632340082
+    ]
+  },
+  {
+    "noteId": 1770675374079,
+    "profile": "Usuario 1",
+    "tags": [
+      "alimentació"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Fruta<br>Naranja<br>Manzana<br>Banana<br>Avocado<br>Mango<br>Frutilla<br>Cerezas<br>Mandarinas<br>Peras<br>Membrillo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Fruita<br>Toronja<br>Poma<br>Plàntan<br>L'alvocat<br>Mango<br>Maduixes<br>Cireres <br>Mandarines<br>Peres<br>Codony",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770755861,
+    "cards": [
+      1770675374081
+    ]
+  },
+  {
+    "noteId": 1770675493822,
+    "profile": "Usuario 1",
+    "tags": [
+      "alimentació"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Verduras<br>Papa/patata<br>Aceituna<br>Ensalada<br>Ajo<br>Pimiento",
+        "order": 0
+      },
+      "Back": {
+        "value": "Verdures <br>Patata<br>Oliva<br>Amanida<br>L'All<br>Ell pebrot",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770675493,
+    "cards": [
+      1770675493822
+    ]
+  },
+  {
+    "noteId": 1770675579564,
+    "profile": "Usuario 1",
+    "tags": [
+      "alimentació"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Licor<br>Vino<br>Birra<br>Agua",
+        "order": 0
+      },
+      "Back": {
+        "value": "Licor<br>Vi negre/blanc/rose<br>Birra <br>Aigua",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770675579,
+    "cards": [
+      1770675579564
+    ]
+  },
+  {
+    "noteId": 1770675697920,
+    "profile": "Usuario 1",
+    "tags": [
+      "alimentació"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Huevo<br>Carne de ternera<br>Embutido<br>Lenguado<br>Jamón<br>Pollo<br>Carne de ..<br>Pez<br>Sardinas<br>Salmon<br>Mejillones<br>Calamares<br>Queso<br>Chorizo",
+        "order": 0
+      },
+      "Back": {
+        "value": "Ou<br>Carn de vedella<br>Cansalada/xarcut<br>Llenguado<br>Pernil<br>Pollastre<br>Carn de xai<br>Peix<br>Las sardines <br>El salmó<br>Els muslos<br>Callamars<br>El formatge<br>Xoriço ",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770718760,
+    "cards": [
+      1770675697920
+    ]
+  },
+  {
+    "noteId": 1770675734008,
+    "profile": "Usuario 1",
+    "tags": [
+      "alimentació"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Pan<br>Torta <br>Chocolate<br>Manteca",
+        "order": 0
+      },
+      "Back": {
+        "value": "Pa<br>Pastís<br>Xocolat<br>Mantega",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770716467,
+    "cards": [
+      1770675734008
+    ]
+  },
+  {
+    "noteId": 1770720097421,
+    "profile": "Usuario 1",
+    "tags": [
+      "robas"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Remera<br>Zapatos<br>Camisa<br>Pollera<br>Zapatilla<br>Campera<br>Jeans<br>Abrigo<br>Chancletas<br>Pantalones<br>Vestido<br>Jersei / pullover <br>leggin",
+        "order": 0
+      },
+      "Back": {
+        "value": "Samarreta<br>Sabates<br>Camisa<br>Faldilles<br>Vambes<br>Jaqueta<br>Texans<br>Abric<br>Sabatilles<br>Pantalons<br>Vestit<br>Jersei<br>Malles",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770720097,
+    "cards": [
+      1770720097424
+    ]
+  },
+  {
+    "noteId": 1770798179315,
+    "profile": "Usuario 1",
+    "tags": [
+      "adjetuis",
+      "alimentació"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Fino<br>Grueso <br>Fresco <br>Congelado<br>Tierno<br>Chico<br>Grande<br>Dulce<br>Salado",
+        "order": 0
+      },
+      "Back": {
+        "value": "Prim<br>Gruixut <br>Fresc <br>Congelat<br>Tendré<br>Petit <br>Gros<br>Dolç<br>Salat",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770798179,
+    "cards": [
+      1770798179316
+    ]
+  },
+  {
+    "noteId": 1770798241084,
+    "profile": "Usuario 1",
+    "tags": [
+      "casa"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Alacena",
+        "order": 0
+      },
+      "Back": {
+        "value": "Rebost",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770798241,
+    "cards": [
+      1770798241085
+    ]
+  },
+  {
+    "noteId": 1770798453820,
+    "profile": "Usuario 1",
+    "tags": [],
+    "fields": {
+      "Front": {
+        "value": "Colores<br>Verde<br>Negro<br>Blanco<br>Bermejo/rojo<br>Azul<br>Gris<br>Amarillo<br>Naranja<br>Rosa",
+        "order": 0
+      },
+      "Back": {
+        "value": "Colors<br>Verd<br>Negre<br>Blanc<br>Vermell/roig<br>Blau<br>Gris<br>Groc<br>Toronja<br>Rosa",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770798453,
+    "cards": [
+      1770798453820
+    ]
+  },
+  {
+    "noteId": 1770798763950,
+    "profile": "Usuario 1",
+    "tags": [
+      "numeros"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Cero<br>Uno<br>Dos<br>Tres<br>Cuatro<br>Cinco<br>Seis<br>Siete<br>Ocho nueve<br>Diez",
+        "order": 0
+      },
+      "Back": {
+        "value": "Zero <br>U<br>Dos<br>Tres<br>Quarta<br>Cinc<br>Sis<br>Set<br>Vuit<br>Nou<br>Deu",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770798763,
+    "cards": [
+      1770798763950
+    ]
+  },
+  {
+    "noteId": 1770798840865,
+    "profile": "Usuario 1",
+    "tags": [
+      "numeros"
+    ],
+    "fields": {
+      "Front": {
+        "value": "Once<br>Doce<br>Trece<br>Catorce<br>Quince <br>Dieciséis..",
+        "order": 0
+      },
+      "Back": {
+        "value": "Onze<br>Dotze<br>Tretze<br>Catorze<br>Quinze<br>Setze<br>Disset<br>Divuit<br>Dinou",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770798840,
+    "cards": [
+      1770798840865
+    ]
+  },
+  {
+    "noteId": 1770798924351,
+    "profile": "Usuario 1",
+    "tags": [
+      "numeros"
+    ],
+    "fields": {
+      "Front": {
+        "value": "20<br>30<br>40<br>50<br>60<br>70<br>80<br>90<br>100",
+        "order": 0
+      },
+      "Back": {
+        "value": "Vint<br>Trenta<br>Quaranta<br>Cinquanta<br>Seixanta<br>Setanta<br>Vuitanta<br>Noranta<br>Cent",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1770798924,
+    "cards": [
+      1770798924351
+    ]
+  }
+]
