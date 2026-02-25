@@ -81,15 +81,16 @@ def get_notes_info(note_ids: list[int]) -> list[dict]:
     return invoke("notesInfo", notes=note_ids)
 
 
-def add_note(deck_name: str, model_name: str, fields: dict, tags: list[str] = None) -> int:
+def add_note(deck_name: str, model_name: str, fields: dict, tags: list[str] = None, allow_duplicate: bool = False) -> int:
     """
     Add a single note to a deck.
 
     Args:
-        deck_name:  Name of the target deck (e.g. 'Catalan::Basic2')
-        model_name: Note type (e.g. 'Basic', 'Basic (and reversed card)')
-        fields:     Dict of field name → value (e.g. {'Front': 'gat', 'Back': 'cat'})
-        tags:       Optional list of tags
+        deck_name:        Name of the target deck
+        model_name:       Note type (e.g. 'Basic')
+        fields:           Dict of field name → value
+        tags:             Optional list of tags
+        allow_duplicate:  If True, add even if note already exists elsewhere
 
     Returns:
         The new note's ID.
@@ -100,7 +101,7 @@ def add_note(deck_name: str, model_name: str, fields: dict, tags: list[str] = No
         "fields": fields,
         "tags": tags or [],
         "options": {
-            "allowDuplicate": False
+            "allowDuplicate": allow_duplicate
         }
     }
     return invoke("addNote", note=note)
