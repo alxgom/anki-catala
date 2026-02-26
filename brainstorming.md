@@ -10,6 +10,31 @@
 
 Tooling: Python + AnkiConnect client with upsert, clone, dump, audit scripts.
 
+## Prioritization Matrix
+
+|                                | 🟢 Easy (1 session)         | 🟡 Medium (2-3 sessions)      | 🔴 Hard (ongoing / external) |
+| ------------------------------ | --------------------------- | ----------------------------- | ---------------------------- |
+| **🔥 High Impact**             | **2.** Vocal neutra marking | **1.** Frases cloze deck      | **5.** BSC AINA audio        |
+| _(directly improves learning)_ | **4.** Expand Basic 2       | **3.** Custom verb template   | **9.** Package for CPNL      |
+|                                | **11.** Reverse cards       | **6.** LLM card generator     |                              |
+| **⭐ Medium Impact**           | **8.** CLI upsert tool      | **7.** Auto-correction linter | **10.** Open source toolkit  |
+| _(improves workflow/quality)_  |                             | **13.** Reverse cloze phrases | **12.** Analytics dashboard  |
+
+### Recommended Order
+
+| Priority      | Feature                   | Why first?                                     |
+| ------------- | ------------------------- | ---------------------------------------------- |
+| **Now**       | **2.** Vocal neutra       | Tiny effort, immediate pronunciation benefit   |
+| **Now**       | **4.** Expand Basic 2     | You need more cards for current class          |
+| **Next**      | **1.** Frases deck        | Biggest learning upgrade — context practice    |
+| **Next**      | **11.** Reverse cards     | Easy toggle on existing cards                  |
+| **Soon**      | **3.** Verb template      | Makes verb cards much cleaner                  |
+| **Soon**      | **8.** CLI tool           | Speeds up all future card additions            |
+| **Parallel**  | **5.** BSC AINA audio     | Can scope independently while building content |
+| **Later**     | **6.** LLM generator      | Once card format is stable                     |
+| **Later**     | **7.** Linter             | Once there's enough content to lint            |
+| **Long-term** | **9, 10.** CPNL packaging | After content is teacher-reviewed              |
+
 ---
 
 ## Feature Ideas
