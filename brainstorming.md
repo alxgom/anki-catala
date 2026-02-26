@@ -16,7 +16,7 @@ Tooling: Python + AnkiConnect client with upsert, clone, dump, audit scripts.
 | ------------------------------ | --------------------------- | ----------------------------- | ---------------------------- |
 | **🔥 High Impact**             | **2.** Vocal neutra marking | **1.** Frases cloze deck      | **5.** BSC AINA audio        |
 | _(directly improves learning)_ | **4.** Expand Basic 2       | **3.** Custom verb template   | **9.** Package for CPNL      |
-|                                | **11.** Reverse cards       | **6.** LLM card generator     |                              |
+|                                | **11.** Reverse cards       | **6.** LLM card generator     | **14.** PDF textbook parser  |
 | **⭐ Medium Impact**           | **8.** CLI upsert tool      | **7.** Auto-correction linter | **10.** Open source toolkit  |
 | _(improves workflow/quality)_  |                             | **13.** Reverse cloze phrases | **12.** Analytics dashboard  |
 
@@ -199,6 +199,18 @@ Pull Anki review stats via AnkiConnect → visualize:
 #### 13. "Basic (and reversed card)" for Phrases
 
 Once phrases are solid, create Catalan→Spanish cloze cards too.
+
+#### 14. PDF Textbook Parser + Unit Tagging
+
+Parse the CPNL course textbooks (PDF) to auto-generate cards aligned to each unit.
+
+- Extract vocabulary lists, example sentences, and grammar points per unit
+- Tag every card with `unitat::01`, `unitat::02`, etc.
+- **Non-intensive students** can filter by unit to match their weekly pace
+- **Intensive students** can study all units at once
+- Pipeline: PDF → text extraction (PyMuPDF / pdfplumber) → LLM structuring → card generation
+- Teacher could validate unit mapping against syllabus
+- Could auto-generate Frases cloze cards from textbook example sentences
 
 ---
 
