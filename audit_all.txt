@@ -1,1459 +1,715 @@
 
 ============================================================
-  cpnl basic 1 [dev]  (363 cards)
+  cpnl basic 1 [dev]  (177 cards)
 ============================================================
 
 [1] Front: La cama
     Back:  El llit
-    Tags:  ['casa']
+    Tags:  []
 
 [2] Front: La chimenea
     Back:  La xemeneia
-    Tags:  ['casa']
+    Tags:  []
 
 [3] Front: El balcon
     Back:  El balcó
-    Tags:  ['casa']
+    Tags:  []
 
 [4] Front: El dormitorio
     Back:  El dormitori
-    Tags:  ['casa']
+    Tags:  []
 
 [5] Front: La ventana
     Back:  La finestra
-    Tags:  ['casa']
+    Tags:  []
 
 [6] Front: Plaza
     Back:  Plaça
-    Tags:  ['llocs']
+    Tags:  []
 
 [7] Front: Casa
     Back:  Casa
-    Tags:  ['llocs']
+    Tags:  []
 
 [8] Front: Calle
     Back:  Carrer
-    Tags:  ['llocs']
+    Tags:  []
 
 [9] Front: Avenida
     Back:  Avinguda
-    Tags:  ['llocs']
+    Tags:  []
 
 [10] Front: Barrio
     Back:  Barri
-    Tags:  ['llocs']
+    Tags:  []
 
 [11] Front: Parque
     Back:  Parc
-    Tags:  ['llocs']
+    Tags:  []
 
 [12] Front: Negocio
-    Back:  Botiga
-    Tags:  ['llocs']
+    Back:  La botiga
+    Tags:  []
 
-[13] Front: Verano
-    Back:  Estiu
-    Tags:  ['temps']
-
-[14] Front: Invierno
-    Back:  Hivern
-    Tags:  ['temps']
-
-[15] Front: Semana
+[13] Front: Semana
     Back:  Setmana
-    Tags:  ['temps']
+    Tags:  []
 
-[16] Front: Día
+[14] Front: Día
     Back:  Dia
-    Tags:  ['temps']
+    Tags:  []
 
-[17] Front: Enero
-    Back:  Gener
-    Tags:  ['temps']
-
-[18] Front: Febrero
-    Back:  Febrer
-    Tags:  ['temps']
-
-[19] Front: Marzo
-    Back:  Març
-    Tags:  ['temps']
-
-[20] Front: Abril
-    Back:  Abril
-    Tags:  ['temps']
-
-[21] Front: Junio
-    Back:  Juny
-    Tags:  ['temps']
-
-[22] Front: Julio
-    Back:  Juliol
-    Tags:  ['temps']
-
-[23] Front: Diciembre
-    Back:  Decembre
-    Tags:  ['temps']
-
-[24] Front: Noviembre
-    Back:  Novembre
-    Tags:  ['temps']
-
-[25] Front: La tarde
+[15] Front: La tarde
     Back:  La tarda
-    Tags:  ['temps']
+    Tags:  []
 
-[26] Front: La noche
-    Back:  La Nuit
-    Tags:  ['temps']
+[16] Front: La noche
+    Back:  La nit
+    Tags:  []
 
-[27] Front: Despues
-    Back:  Despres
-    Tags:  ['temps']
+[17] Front: Despues
+    Back:  Després
+    Tags:  []
 
-[28] Front: Padre/madre
-    Back:  Pere/mare
-    Tags:  ['relaciones']
+[18] Front: Padre/madre
+    Back:  Pare/mare
+    Tags:  []
 
-[29] Front: Hermano/hermana
+[19] Front: Hermano/hermana
     Back:  Germà/germana
-    Tags:  ['relaciones']
+    Tags:  []
 
-[30] Front: Tío/tia
-    Back:  Oncle/oncla-tiata
-    Tags:  ['relaciones']
+[20] Front: Tío/tia
+    Back:  Oncle/tieta
+    Tags:  []
 
-[31] Front: Chico/chica
+[21] Front: Chico/chica
     Back:  Noi/noia
-    Tags:  ['relaciones']
+    Tags:  []
 
-[32] Front: Ropa
-    Back:  Roba
-    Tags:  ['roba']
+[22] Front: Ropa
+    Back:  La roba
+    Tags:  []
 
-[33] Front: Escribir
+[23] Front: Escribir
     Back:  Escriure
-    Tags:  ['verbes']
+    Tags:  []
 
-[34] Front: Leer
+[24] Front: Leer
     Back:  Llegir
-    Tags:  ['verbes']
+    Tags:  []
 
-[35] Front: Ver
+[25] Front: Ver
     Back:  Veure<br><br>Veig<br>Veus<br>Veu<br>Veiem<br>Veieu<br>Veuen
-    Tags:  ['verbes']
+    Tags:  []
 
-[36] Front: Tener
+[26] Front: Tener
     Back:  Tenir<br><br>Tinc<br>Tens<br>Té<br>Tenim<br>Teniu<br>Tenen
-    Tags:  ['verbes']
+    Tags:  []
 
-[37] Front: Amar
+[27] Front: Amar
     Back:  Estimar
-    Tags:  ['verbes']
+    Tags:  []
 
-[38] Front: Vivir
+[28] Front: Vivir
     Back:  Viure<br><br>Visc<br>Vius<br>Viu<br>Vivim<br>Viviu<br>Viven<br>
-    Tags:  ['verbes']
+    Tags:  []
 
-[39] Front: Salir
+[29] Front: Salir
     Back:  Sortir
     Tags:  []
 
-[40] Front: Entrar
+[30] Front: Entrar
     Back:  Entrar
     Tags:  []
 
-[41] Front: La mañana
+[31] Front: La mañana
     Back:  El matí
-    Tags:  ['temps']
+    Tags:  []
 
-[42] Front: El mediodia
+[32] Front: El mediodia
     Back:  El migdia
-    Tags:  ['temps']
+    Tags:  []
 
-[43] Front: La madrugada
+[33] Front: La madrugada
     Back:  La matinada
-    Tags:  ['temps']
+    Tags:  []
 
-[44] Front: Desayuno
+[34] Front: Desayuno
     Back:  Esmorzar
-    Tags:  ['temps']
+    Tags:  []
 
-[45] Front: Almuerzo
+[35] Front: Almuerzo
     Back:  Dinar
-    Tags:  ['temps']
+    Tags:  []
 
-[46] Front: Merienda
+[36] Front: Merienda
     Back:  Berenar
-    Tags:  ['temps']
+    Tags:  []
 
-[47] Front: Cena
+[37] Front: Cena
     Back:  Sopar
-    Tags:  ['temps']
+    Tags:  []
 
-[48] Front: Ahora
+[38] Front: Ahora
     Back:  Ara
-    Tags:  ['temps']
+    Tags:  []
 
-[49] Front: Hoy
-    Back:  Avuí
-    Tags:  ['temps']
+[39] Front: Hoy
+    Back:  Avui
+    Tags:  []
 
-[50] Front: Luego
+[40] Front: Luego
     Back:  Aviat
-    Tags:  ['temps']
+    Tags:  []
 
-[51] Front: Mañana
+[41] Front: Mañana
     Back:  Demà
-    Tags:  ['temps']
+    Tags:  []
 
-[52] Front: Ayer
+[42] Front: Ayer
     Back:  Ahir
-    Tags:  ['temps']
+    Tags:  []
 
-[53] Front: Sin
-    Back:  Sensa
-    Tags:  ['temps']
+[43] Front: Sin
+    Back:  Sense
+    Tags:  []
 
-[54] Front: Hijo/hija
+[44] Front: Hijo/hija
     Back:  Fill/filla
-    Tags:  ['relaciones']
+    Tags:  []
 
-[55] Front: Primo/prima
+[45] Front: Primo/prima
     Back:  Cosí/cosina
-    Tags:  ['relaciones']
+    Tags:  []
 
-[56] Front: Sobrino/sobrina
+[46] Front: Sobrino/sobrina
     Back:  Nebot/neboda
-    Tags:  ['relaciones']
+    Tags:  []
 
-[57] Front: Dar
+[47] Front: Dar
     Back:  Donar
-    Tags:  ['verbes']
+    Tags:  []
 
-[58] Front: Llamarse
+[48] Front: Llamarse
     Back:  Dir-se<br><br>Em dic<br>Et dius<br>Es diu <br>Ens diem <br>Us dieu<br>És diuen
-    Tags:  ['verbes']
+    Tags:  []
 
-[59] Front: Ser
+[49] Front: Ser
     Back:  Ser<br><br>Soc<br>Ets<br>És<br>Som<br>Sou<br>Són
-    Tags:  ['verbes', 'verbes::irregular']
+    Tags:  []
 
-[60] Front: Rojo
+[50] Front: Rojo
     Back:  Vermell / vermella / vermells / vermelles
-    Tags:  ['colors']
+    Tags:  []
 
-[61] Front: Verde
+[51] Front: Verde
     Back:  Verd / verda / verds / verdes
-    Tags:  ['colors']
+    Tags:  []
 
-[62] Front: Amarillo
+[52] Front: Amarillo
     Back:  Groc / groga / grocs / grogues
-    Tags:  ['colors']
+    Tags:  []
 
-[63] Front: Medico
+[53] Front: Medico
     Back:  Metge / metgessa (doctor/a)
-    Tags:  ['profesiones']
+    Tags:  []
 
-[64] Front: Plomero
+[54] Front: Plomero
     Back:  Lampista
-    Tags:  ['profesiones']
+    Tags:  []
 
-[65] Front: Cocinero
+[55] Front: Cocinero
     Back:  Cuiner / cuinera / cuiners / cuineres
-    Tags:  ['profesiones']
+    Tags:  []
 
-[66] Front: Hacer
+[56] Front: Hacer
     Back:  Fer<br><br>Faig <br>Fàs<br>Fa<br>Fem<br>Feu<br>Fan
-    Tags:  ['verbes']
+    Tags:  []
 
-[67] Front: Octubre
-    Back:  Octubre
-    Tags:  ['temps']
-
-[68] Front: Septiembre
-    Back:  Setembre
-    Tags:  ['temps']
-
-[69] Front: Agosto
-    Back:  Agost
-    Tags:  ['temps']
-
-[70] Front: Mayo
-    Back:  Maig
-    Tags:  ['temps']
-
-[71] Front: El otoño
-    Back:  La tardor
-    Tags:  ['temps']
-
-[72] Front: Recomendar
+[57] Front: Recomendar
     Back:  Recomanar
-    Tags:  ['verbes']
+    Tags:  []
 
-[73] Front: Estar
+[58] Front: Estar
     Back:  Estar
-    Tags:  ['verbes']
+    Tags:  []
 
-[74] Front: Haber
+[59] Front: Haber
     Back:  Haver-hi
-    Tags:  ['verbes']
+    Tags:  []
 
-[75] Front: Delante
-    Back:  Devant
-    Tags:  ['posiciones']
+[60] Front: Delante
+    Back:  Davant
+    Tags:  []
 
-[76] Front: Detras
-    Back:  Derrere
-    Tags:  ['posiciones']
+[61] Front: Detras
+    Back:  Darrere
+    Tags:  []
 
-[77] Front: Derecha
+[62] Front: Derecha
     Back:  Dreta
-    Tags:  ['posiciones']
+    Tags:  []
 
-[78] Front: Izquierda
+[63] Front: Izquierda
     Back:  Esquerra
-    Tags:  ['posiciones']
+    Tags:  []
 
-[79] Front: Entrando
+[64] Front: Entrando
     Back:  Entrant
-    Tags:  ['posiciones']
+    Tags:  []
 
-[80] Front: Saliendo
+[65] Front: Saliendo
     Back:  Sortint
-    Tags:  ['posiciones']
+    Tags:  []
 
-[81] Front: A dentro
+[66] Front: A dentro
     Back:  A dins
-    Tags:  ['posiciones']
+    Tags:  []
 
-[82] Front: Afuera
+[67] Front: Afuera
     Back:  A fora
-    Tags:  ['posiciones']
+    Tags:  []
 
-[83] Front: Al fondo
+[68] Front: Al fondo
     Back:  Al fons/al final
-    Tags:  ['posiciones']
-
-[84] Front: Apellido
-    Back:  Cognom
     Tags:  []
 
-[85] Front: Edad
-    Back:  Edat
+[69] Front: Apellido
+    Back:  El cognom
     Tags:  []
 
-[86] Front: Profesion
-    Back:  Professió
+[70] Front: Edad
+    Back:  L'edat (fem.)
     Tags:  []
 
-[87] Front: Demandar
+[71] Front: Profesion
+    Back:  La professió
+    Tags:  []
+
+[72] Front: Demandar
     Back:  Demanar
-    Tags:  ['verbes']
-
-[88] Front: La mesa
-    Back:  La taula
-    Tags:  ['casa']
-
-[89] Front: El comedor
-    Back:  El menjador
-    Tags:  ['casa']
-
-[90] Front: El living
-    Back:  La sala d'estar
-    Tags:  ['casa']
-
-[91] Front: El baño
-    Back:  El bany/lavabo
-    Tags:  ['casa']
-
-[92] Front: Cocina
-    Back:  Cuina
-    Tags:  ['casa']
-
-[93] Front: Garage
-    Back:  El garatge
-    Tags:  ['casa']
-
-[94] Front: Puerta
-    Back:  Porta
-    Tags:  ['casa']
-
-[95] Front: Recibidor
-    Back:  Rebedor
-    Tags:  ['casa']
-
-[96] Front: El lavadero
-    Back:  El safareig
-    Tags:  ['casa']
-
-[97] Front: El pasillo
-    Back:  El passadís
-    Tags:  ['casa']
-
-[98] Front: Año
-    Back:  Any
-    Tags:  ['temps']
-
-[99] Front: El trabajo
-    Back:  La feina
-    Tags:  ['profesiones']
-
-[100] Front: Lejos
-    Back:  Lluny
-    Tags:  ['posiciones']
-
-[101] Front: Cerca
-    Back:  Prop
-    Tags:  ['posiciones']
-
-[102] Front: Largo
-    Back:  Llarg / llarga / llargs / llargues
-    Tags:  ['adjectius', 'posiciones']
-
-[103] Front: Corto
-    Back:  Curt / curta / curts / curtes
-    Tags:  ['adjectius']
-
-[104] Front: Presupuesto
-    Back:  Presupost
     Tags:  []
 
-[105] Front: Poder
+[73] Front: La mesa
+    Back:  La taula
+    Tags:  []
+
+[74] Front: El comedor
+    Back:  El menjador
+    Tags:  []
+
+[75] Front: El living
+    Back:  La sala d'estar
+    Tags:  []
+
+[76] Front: El baño
+    Back:  El bany/lavabo
+    Tags:  []
+
+[77] Front: Cocina
+    Back:  La cuina
+    Tags:  []
+
+[78] Front: Garage
+    Back:  El garatge
+    Tags:  []
+
+[79] Front: Puerta
+    Back:  La porta
+    Tags:  []
+
+[80] Front: Recibidor
+    Back:  El rebedor
+    Tags:  []
+
+[81] Front: El lavadero
+    Back:  El safareig
+    Tags:  []
+
+[82] Front: El pasillo
+    Back:  El passadís
+    Tags:  []
+
+[83] Front: Año
+    Back:  Any
+    Tags:  []
+
+[84] Front: El trabajo
+    Back:  La feina
+    Tags:  []
+
+[85] Front: Lejos
+    Back:  Lluny
+    Tags:  []
+
+[86] Front: Cerca
+    Back:  Prop
+    Tags:  []
+
+[87] Front: Largo
+    Back:  Llarg / llarga / llargs / llargues
+    Tags:  []
+
+[88] Front: Corto
+    Back:  Curt / curta / curts / curtes
+    Tags:  []
+
+[89] Front: Presupuesto
+    Back:  El pressupost
+    Tags:  []
+
+[90] Front: Poder
     Back:  Poder<br><br>Puc<br>Pots<br>Pot<br>Podem <br>Podeu<br>Poden
     Tags:  []
 
-[106] Front: Mío, tuyo,suyo
-    Back:  Meu/meva/meus/meves<br>Teu<br>Seu<br>Nostre<br>Vostre<br>Seu
+[91] Front: Siempre
+    Back:  Sempre
     Tags:  []
 
-[107] Front: Siempre
-    Back:  Sempre
-    Tags:  ['temps']
-
-[108] Front: Seguido
+[92] Front: Seguido
     Back:  Sovint
-    Tags:  ['temps']
+    Tags:  []
 
-[109] Front: Aveces
+[93] Front: Aveces
     Back:  De vegades
-    Tags:  ['temps']
-
-[110] Front: Primavera
-    Back:  Primavera
-    Tags:  ['temps']
-
-[111] Front: Fiesta
-    Back:  Festa
     Tags:  []
 
-[112] Front: Lunes
-    Back:  Diluns
-    Tags:  ['temps']
+[94] Front: Fiesta
+    Back:  La festa
+    Tags:  []
 
-[113] Front: Martes
-    Back:  Dimarts
-    Tags:  ['temps']
-
-[114] Front: Miercoles
-    Back:  Dimecres
-    Tags:  ['temps']
-
-[115] Front: Jueves
-    Back:  Dijous
-    Tags:  ['temps']
-
-[116] Front: Viernes
-    Back:  Divendres
-    Tags:  ['temps']
-
-[117] Front: Sabado
-    Back:  Dissabte
-    Tags:  ['temps']
-
-[118] Front: Domingo
-    Back:  Diumenge
-    Tags:  ['temps']
-
-[119] Front: Verdaderas
+[95] Front: Verdaderas
     Back:  Veritable / veritable / veritables / veritables
     Tags:  []
 
-[120] Front: Falsas
+[96] Front: Falsas
     Back:  Fals / falsa / falsos / falses
     Tags:  []
 
-[121] Front: Que, cual
+[97] Front: Que, cual
     Back:  Quin/quina/quines
-    Tags:  ['preguntas']
-
-[122] Front: Como
-    Back:  Com
-    Tags:  ['preguntas']
-
-[123] Front: Ponerse
-    Back:  Posar-se<br><br>Em poso<br>Et poses<br>És posa <br>Ens posem<br>Eu poseu<br>És posen
-    Tags:  ['verbes::irregular']
-
-[124] Front: Ir
-    Back:  Anar<br><br>Vaig<br>Vas<br>Va<br>Anem<br>Aneu<br>Van
-    Tags:  ['verbes::irregular']
-
-[125] Front: Siesta
-    Back:  Migdiada
     Tags:  []
 
-[126] Front: Teatro
-    Back:  Teatre
-    Tags:  ['llocs']
+[98] Front: Como
+    Back:  Com
+    Tags:  []
 
-[127] Front: A mí / a ti / a ell / a nosaltres...
+[99] Front: Ponerse
+    Back:  Posar-se<br><br>Em poso<br>Et poses<br>És posa <br>Ens posem<br>Eu poseu<br>És posen
+    Tags:  []
+
+[100] Front: Ir
+    Back:  Anar<br><br>Vaig<br>Vas<br>Va<br>Anem<br>Aneu<br>Van
+    Tags:  []
+
+[101] Front: Siesta
+    Back:  La migdiada
+    Tags:  []
+
+[102] Front: Teatro
+    Back:  Teatre
+    Tags:  []
+
+[103] Front: A mí / a ti / a ell / a nosaltres...
     Back:  <b>Pronoms febles (OI)</b> — complement indirecte<br><br>em &nbsp;(me) &nbsp;&nbsp;→ &nbsp;<i>Em dóna el pa</i> (Me da el pan)<br>et &nbsp;&nbsp;(te) &nbsp;&nbsp;&nbsp;→ &nbsp;<i>Et truco demà</i> (Te llamo mañana)<br>li &nbsp;&nbsp;(le) &nbsp;&nbsp;&nbsp;→ &nbsp;<i>Li explico la història</i> (Le explico la historia)<br>ens (nos) &nbsp;→ &nbsp;<i>Ens escriu cada dia</i> (Nos escribe cada día)<br>us &nbsp;&nbsp;(os) &nbsp;&nbsp;→ &nbsp;<i>Us porto un regal</i> (Os traigo un regalo)<br>els &nbsp;(les) &nbsp;→ &nbsp;<i>Els dono les claus</i> (Les doy las llaves)<br><br><b>Davant vocal → contracció:</b><br>em → m' &nbsp;&nbsp;<i>M'agrada</i> (me gusta)<br>et → t' &nbsp;&nbsp;&nbsp;&nbsp;<i>T'estimo</i> (te quiero)
-    Tags:  ['pronoms']
-
-[128] Front: Alquiler
-    Back:  Lloger
-    Tags:  ['casa']
-
-[129] Front: Regular -ar
-    Back:  -o<br>-es<br>-a<br>-em<br>-eu<br>-en
-    Tags:  ['verbes']
-
-[130] Front: Caliente
-    Back:  Calent / calenta / calents / calentes
-    Tags:  ['adjectius']
-
-[131] Front: Frio
-    Back:  Fred / freda / freds / fredes
-    Tags:  ['adjectius']
-
-[132] Front: Caluroso
-    Back:  Càlid / càlida / càlids / càlides
-    Tags:  ['adjectius']
-
-[133] Front: Fresco
-    Back:  Fresc / fresca / frescos / fresques
-    Tags:  ['adjectius']
-
-[134] Front: Dulce
-    Back:  Dolç / dolça / dolços / dolces
-    Tags:  ['adjectius']
-
-[135] Front: Salado
-    Back:  Salat / salada / salats / salades
-    Tags:  ['adjectius']
-
-[136] Front: Ensalada
-    Back:  Amanida
-    Tags:  ['alimentació']
-
-[137] Front: Seco
-    Back:  Sec / seca / secs / seques
-    Tags:  ['adjectius']
-
-[138] Front: Duro
-    Back:  Dur / dura / durs / dures
-    Tags:  ['adjectius']
-
-[139] Front: Dieciséis
-    Back:  Setze
-    Tags:  ['numeros']
-
-[140] Front: Segundo
-    Back:  Segon / segona / segons / segones
-    Tags:  ['numeros']
-
-[141] Front: Luna
-    Back:  Lluna
     Tags:  []
 
-[142] Front: Amigo
-    Back:  Amic / amiga / amics / amigues
-    Tags:  ['relaciones']
+[104] Front: Alquiler
+    Back:  El lloguer
+    Tags:  []
 
-[143] Front: Bruja
+[105] Front: Regular -ar
+    Back:  -o<br>-es<br>-a<br>-em<br>-eu<br>-en
+    Tags:  []
+
+[106] Front: Caliente
+    Back:  Calent / calenta / calents / calentes
+    Tags:  []
+
+[107] Front: Frio
+    Back:  Fred / freda / freds / fredes
+    Tags:  []
+
+[108] Front: Caluroso
+    Back:  Càlid / càlida / càlids / càlides
+    Tags:  []
+
+[109] Front: Fresco
+    Back:  Fresc / fresca / frescos / fresques
+    Tags:  []
+
+[110] Front: Dulce
+    Back:  Dolç / dolça / dolços / dolces
+    Tags:  []
+
+[111] Front: Salado
+    Back:  Salat / salada / salats / salades
+    Tags:  []
+
+[112] Front: Ensalada
+    Back:  L'amanida
+    Tags:  []
+
+[113] Front: Seco
+    Back:  Sec / seca / secs / seques
+    Tags:  []
+
+[114] Front: Duro
+    Back:  Dur / dura / durs / dures
+    Tags:  []
+
+[115] Front: Dieciséis
+    Back:  Setze
+    Tags:  []
+
+[116] Front: Segundo
+    Back:  Segon / segona / segons / segones
+    Tags:  []
+
+[117] Front: Luna
+    Back:  La lluna
+    Tags:  []
+
+[118] Front: Amigo
+    Back:  Amic / amiga / amics / amigues
+    Tags:  []
+
+[119] Front: Bruja
     Back:  Bruixa
     Tags:  []
 
-[144] Front: Escoba
-    Back:  Escombra
+[120] Front: Escoba
+    Back:  L'escombra
     Tags:  []
 
-[145] Front: Pez
-    Back:  Peix
-    Tags:  ['alimentació']
+[121] Front: Pez
+    Back:  El peix
+    Tags:  []
 
-[146] Front: Perro
-    Back:  Gos
-    Tags:  ['animales']
+[122] Front: Perro
+    Back:  El gos / la gossa
+    Tags:  []
 
-[147] Front: Luz
+[123] Front: Luz
     Back:  Llum
-    Tags:  ['casa']
-
-[148] Front: Ruido
-    Back:  Soroll
     Tags:  []
 
-[149] Front: Silencio
-    Back:  Silenci
+[124] Front: Ruido
+    Back:  El soroll
     Tags:  []
 
-[150] Front: Vecinos
+[125] Front: Silencio
+    Back:  El silenci
+    Tags:  []
+
+[126] Front: Vecinos
     Back:  Veí / veïna / veïns / veïnes
-    Tags:  ['relaciones']
+    Tags:  []
 
-[151] Front: Agarrar
+[127] Front: Agarrar
     Back:  Agafar
-    Tags:  ['verbes']
+    Tags:  []
 
-[152] Front: Saber
+[128] Front: Saber
     Back:  Saber <br><br>Sé <br>Saps<br>Sap<br>Sabem<br>Sabeu<br>Saben
-    Tags:  ['verbes']
+    Tags:  []
 
-[153] Front: Girar
+[129] Front: Girar
     Back:  Tombar/girar
-    Tags:  ['verbes']
-
-[154] Front: Fiebre
-    Back:  Febre
     Tags:  []
 
-[155] Front: Libro
-    Back:  Llibre
+[130] Front: Fiebre
+    Back:  La febre
     Tags:  []
 
-[156] Front: Baja
-    Back:  Baixa
+[131] Front: Libro
+    Back:  El llibre
     Tags:  []
 
-[157] Front: Esquina
-    Back:  Cantonada
+[132] Front: Baja
+    Back:  Baixa / baix (adj. m/f)
     Tags:  []
 
-[158] Front: Hasta
+[133] Front: Esquina
+    Back:  La cantonada
+    Tags:  []
+
+[134] Front: Hasta
     Back:  Fins
     Tags:  []
 
-[159] Front: Tren<br>Tranvía<br>Autobús<br>Bicicleta<br>Moto<br>Patinete<br>Taxi<br>Coche<br>A pie
+[135] Front: Tren<br>Tranvía<br>Autobús<br>Bicicleta<br>Moto<br>Patinete<br>Taxi<br>Coche<br>A pie
     Back:  Tren<br>Tramvia<br>Autobús<br>Bicicleta<br>Moto<br>El patinet<br>El taxi<br>El cotxe<br>La moto<br>A peu
-    Tags:  ['transport']
+    Tags:  []
 
-[160] Front: Probar
+[136] Front: Probar
     Back:  Provar
-    Tags:  ['verbes']
+    Tags:  []
 
-[161] Front: Parar
+[137] Front: Parar
     Back:  Aturar
-    Tags:  ['verbes']
+    Tags:  []
 
-[162] Front: Caro
+[138] Front: Caro
     Back:  Car / cara / cars / cares
-    Tags:  ['adjectius']
+    Tags:  []
 
-[163] Front: Dificil
+[139] Front: Dificil
     Back:  Difícil / difícil / difícils / difícils
-    Tags:  ['adjectius']
+    Tags:  []
 
-[164] Front: Cuerpo
+[140] Front: Cuerpo
     Back:  Cos
-    Tags:  ['cos']
+    Tags:  []
 
-[165] Front: Cabello
+[141] Front: Cabello
     Back:  Cabell
-    Tags:  ['cos']
+    Tags:  []
 
-[166] Front: Piel
+[142] Front: Piel
     Back:  Pell
-    Tags:  ['cos']
+    Tags:  []
 
-[167] Front: Quedarse
-    Back:  Quedar-se <br><br><br>Em quedo<br>...
-    Tags:  ['verbes']
+[143] Front: Quedarse
+    Back:  Quedar-se<br><br>Em quedo<br>Et quedes<br>Es queda<br>Ens quedem<br>Us quedeu<br>Es queden
+    Tags:  []
 
-[168] Front: Lleno/pleno
+[144] Front: Lleno/pleno
     Back:  Ple / plena / plens / plenes
-    Tags:  ['adjectius']
+    Tags:  []
 
-[169] Front: Vacio
+[145] Front: Vacio
     Back:  Buit / buida / buits / buides
-    Tags:  ['adjectius']
+    Tags:  []
 
-[170] Front: Mismo
+[146] Front: Mismo
     Back:  Mateix / mateixa / mateixos / mateixes
     Tags:  []
 
-[171] Front: Azul
+[147] Front: Azul
     Back:  Blau / blava / blaus / blaves
-    Tags:  ['colors']
-
-[172] Front: Bailar
-    Back:  Ballar<br><br>
     Tags:  []
 
-[173] Front: Querer
+[148] Front: Bailar
+    Back:  Ballar
+    Tags:  []
+
+[149] Front: Querer
     Back:  Voler<br><br>Vull<br>Vols<br>Vol<br>Volem<br>Voleu<br>Volen
-    Tags:  ['verbes']
+    Tags:  []
 
-[174] Front: Beber
+[150] Front: Beber
     Back:  Beure<br><br>Bec<br>Veus<br>Beu<br>Bevem<br>Beveu<br>Beuen
-    Tags:  ['verbes']
+    Tags:  []
 
-[175] Front: Fruta<br>Naranja<br>Manzana<br>Banana<br>Avocado<br>Mango<br>Frutilla<br>Cerezas<br>Mandarinas<br>Peras<br>Membrillo
+[151] Front: Fruta<br>Naranja<br>Manzana<br>Banana<br>Avocado<br>Mango<br>Frutilla<br>Cerezas<br>Mandarinas<br>Peras<br>Membrillo
     Back:  Fruita<br>Toronja<br>Poma<br>Plàntan<br>L'alvocat<br>Mango<br>Maduixes<br>Cireres <br>Mandarines<br>Peres<br>Codony
-    Tags:  ['alimentació']
+    Tags:  []
 
-[176] Front: Verduras<br>Papa/patata<br>Aceituna<br>Ensalada<br>Ajo<br>Pimiento
+[152] Front: Verduras<br>Papa/patata<br>Aceituna<br>Ensalada<br>Ajo<br>Pimiento
     Back:  Verdures <br>Patata<br>Oliva<br>Amanida<br>L'All<br>Ell pebrot
-    Tags:  ['alimentació']
+    Tags:  []
 
-[177] Front: Licor<br>Vino<br>Birra<br>Agua
+[153] Front: Licor<br>Vino<br>Birra<br>Agua
     Back:  Licor<br>Vi negre/blanc/rose<br>Birra <br>Aigua
-    Tags:  ['alimentació']
+    Tags:  []
 
-[178] Front: Huevo<br>Carne de ternera<br>Embutido<br>Lenguado<br>Jamón<br>Pollo<br>Carne de ..<br>Pez<br>Sardinas<br>Salmon<br>Mejillones<br>Calamares<br>Queso<br>Chorizo
+[154] Front: Huevo<br>Carne de ternera<br>Embutido<br>Lenguado<br>Jamón<br>Pollo<br>Carne de ..<br>Pez<br>Sardinas<br>Salmon<br>Mejillones<br>Calamares<br>Queso<br>Chorizo
     Back:  Ou<br>Carn de vedella<br>Cansalada/xarcut<br>Llenguado<br>Pernil<br>Pollastre<br>Carn de xai<br>Peix<br>Las sardines <br>El salmó<br>Els muslos<br>Callamars<br>El formatge<br>Xoriço
-    Tags:  ['alimentació']
+    Tags:  []
 
-[179] Front: Pan<br>Torta <br>Chocolate<br>Manteca
+[155] Front: Pan<br>Torta <br>Chocolate<br>Manteca
     Back:  Pa<br>Pastís<br>Xocolat<br>Mantega
-    Tags:  ['alimentació']
+    Tags:  []
 
-[180] Front: Remera<br>Zapatos<br>Camisa<br>Pollera<br>Zapatilla<br>Campera<br>Jeans<br>Abrigo<br>Chancletas<br>Pantalones<br>Vestido<br>Jersei / pullover <br>leggin
+[156] Front: Remera<br>Zapatos<br>Camisa<br>Pollera<br>Zapatilla<br>Campera<br>Jeans<br>Abrigo<br>Chancletas<br>Pantalones<br>Vestido<br>Jersei / pullover <br>leggin
     Back:  Samarreta<br>Sabates<br>Camisa<br>Faldilles<br>Vambes<br>Jaqueta<br>Texans<br>Abric<br>Sabatilles<br>Pantalons<br>Vestit<br>Jersei<br>Malles
-    Tags:  ['roba']
+    Tags:  []
 
-[181] Front: Fino<br>Grueso <br>Fresco <br>Congelado<br>Tierno<br>Chico<br>Grande<br>Dulce<br>Salado
+[157] Front: Fino<br>Grueso <br>Fresco <br>Congelado<br>Tierno<br>Chico<br>Grande<br>Dulce<br>Salado
     Back:  Prim<br>Gruixut <br>Fresc <br>Congelat<br>Tendré<br>Petit <br>Gros<br>Dolç<br>Salat
-    Tags:  ['adjectius', 'alimentació']
+    Tags:  []
 
-[182] Front: Alacena
+[158] Front: Alacena
     Back:  Rebost
-    Tags:  ['casa']
+    Tags:  []
 
-[183] Front: Colores<br>Verde<br>Negro<br>Blanco<br>Bermejo/rojo<br>Azul<br>Gris<br>Amarillo<br>Naranja<br>Rosa
+[159] Front: Colores<br>Verde<br>Negro<br>Blanco<br>Bermejo/rojo<br>Azul<br>Gris<br>Amarillo<br>Naranja<br>Rosa
     Back:  Colors<br>Verd<br>Negre<br>Blanc<br>Vermell/roig<br>Blau<br>Gris<br>Groc<br>Toronja<br>Rosa
     Tags:  []
 
-[184] Front: Cero<br>Uno<br>Dos<br>Tres<br>Cuatro<br>Cinco<br>Seis<br>Siete<br>Ocho nueve<br>Diez
+[160] Front: Cero<br>Uno<br>Dos<br>Tres<br>Cuatro<br>Cinco<br>Seis<br>Siete<br>Ocho nueve<br>Diez
     Back:  Zero <br>U<br>Dos<br>Tres<br>Quarta<br>Cinc<br>Sis<br>Set<br>Vuit<br>Nou<br>Deu
-    Tags:  ['numeros']
+    Tags:  []
 
-[185] Front: Once<br>Doce<br>Trece<br>Catorce<br>Quince <br>Dieciséis..
+[161] Front: Once<br>Doce<br>Trece<br>Catorce<br>Quince <br>Dieciséis..
     Back:  Onze<br>Dotze<br>Tretze<br>Catorze<br>Quinze<br>Setze<br>Disset<br>Divuit<br>Dinou
-    Tags:  ['numeros']
+    Tags:  []
 
-[186] Front: 20<br>30<br>40<br>50<br>60<br>70<br>80<br>90<br>100
+[162] Front: 20<br>30<br>40<br>50<br>60<br>70<br>80<br>90<br>100
     Back:  Vint<br>Trenta<br>Quaranta<br>Cinquanta<br>Seixanta<br>Setanta<br>Vuitanta<br>Noranta<br>Cent
-    Tags:  ['numeros']
-
-[187] Front: La cama
-    Back:  El llit
-    Tags:  ['casa']
-
-[188] Front: La chimenea
-    Back:  La xemeneia
-    Tags:  ['casa']
-
-[189] Front: El balcon
-    Back:  El balcó
-    Tags:  ['casa']
-
-[190] Front: El dormitorio
-    Back:  El dormitori
-    Tags:  ['casa']
-
-[191] Front: La ventana
-    Back:  La finestra
-    Tags:  ['casa']
-
-[192] Front: Plaza
-    Back:  Plaça
-    Tags:  ['llocs']
-
-[193] Front: Casa
-    Back:  Casa
-    Tags:  ['llocs']
-
-[194] Front: Calle
-    Back:  Carrer
-    Tags:  ['llocs']
-
-[195] Front: Avenida
-    Back:  Avinguda
-    Tags:  ['llocs']
-
-[196] Front: Barrio
-    Back:  Barri
-    Tags:  ['llocs']
-
-[197] Front: Parque
-    Back:  Parc
-    Tags:  ['llocs']
-
-[198] Front: Negocio
-    Back:  Botiga
-    Tags:  ['llocs']
-
-[199] Front: Semana
-    Back:  Setmana
-    Tags:  ['temps']
-
-[200] Front: Día
-    Back:  Dia
-    Tags:  ['temps']
-
-[201] Front: La tarde
-    Back:  La tarda
-    Tags:  ['temps']
-
-[202] Front: La noche
-    Back:  La Nuit
-    Tags:  ['temps']
-
-[203] Front: Despues
-    Back:  Despres
-    Tags:  ['temps']
-
-[204] Front: Padre/madre
-    Back:  Pere/mare
-    Tags:  ['relaciones']
-
-[205] Front: Hermano/hermana
-    Back:  Germà/germana
-    Tags:  ['relaciones']
-
-[206] Front: Tío/tia
-    Back:  Oncle/oncla-tiata
-    Tags:  ['relaciones']
-
-[207] Front: Chico/chica
-    Back:  Noi/noia
-    Tags:  ['relaciones']
-
-[208] Front: Ropa
-    Back:  Roba
-    Tags:  ['roba']
-
-[209] Front: Escribir
-    Back:  Escriure
-    Tags:  ['verbes']
-
-[210] Front: Leer
-    Back:  Llegir
-    Tags:  ['verbes']
-
-[211] Front: Ver
-    Back:  Veure<br><br>Veig<br>Veus<br>Veu<br>Veiem<br>Veieu<br>Veuen
-    Tags:  ['verbes']
-
-[212] Front: Tener
-    Back:  Tenir<br><br>Tinc<br>Tens<br>Té<br>Tenim<br>Teniu<br>Tenen
-    Tags:  ['verbes']
-
-[213] Front: Amar
-    Back:  Estimar
-    Tags:  ['verbes']
-
-[214] Front: Vivir
-    Back:  Viure<br><br>Visc<br>Vius<br>Viu<br>Vivim<br>Viviu<br>Viven<br>
-    Tags:  ['verbes']
-
-[215] Front: Salir
-    Back:  Sortir
     Tags:  []
 
-[216] Front: Entrar
-    Back:  Entrar
-    Tags:  []
-
-[217] Front: La mañana
-    Back:  El matí
-    Tags:  ['temps']
-
-[218] Front: El mediodia
-    Back:  El migdia
-    Tags:  ['temps']
-
-[219] Front: La madrugada
-    Back:  La matinada
-    Tags:  ['temps']
-
-[220] Front: Desayuno
-    Back:  Esmorzar
-    Tags:  ['temps']
-
-[221] Front: Almuerzo
-    Back:  Dinar
-    Tags:  ['temps']
-
-[222] Front: Merienda
-    Back:  Berenar
-    Tags:  ['temps']
-
-[223] Front: Cena
-    Back:  Sopar
-    Tags:  ['temps']
-
-[224] Front: Ahora
-    Back:  Ara
-    Tags:  ['temps']
-
-[225] Front: Hoy
-    Back:  Avuí
-    Tags:  ['temps']
-
-[226] Front: Luego
-    Back:  Aviat
-    Tags:  ['temps']
-
-[227] Front: Mañana
-    Back:  Demà
-    Tags:  ['temps']
-
-[228] Front: Ayer
-    Back:  Ahir
-    Tags:  ['temps']
-
-[229] Front: Sin
-    Back:  Sensa
-    Tags:  ['temps']
-
-[230] Front: Hijo/hija
-    Back:  Fill/filla
-    Tags:  ['relaciones']
-
-[231] Front: Primo/prima
-    Back:  Cosí/cosina
-    Tags:  ['relaciones']
-
-[232] Front: Sobrino/sobrina
-    Back:  Nebot/neboda
-    Tags:  ['relaciones']
-
-[233] Front: Dar
-    Back:  Donar
-    Tags:  ['verbes']
-
-[234] Front: Llamarse
-    Back:  Dir-se<br><br>Em dic<br>Et dius<br>Es diu <br>Ens diem <br>Us dieu<br>És diuen
-    Tags:  ['verbes']
-
-[235] Front: Ser
-    Back:  Ser<br><br>Soc<br>Ets<br>És<br>Som<br>Sou<br>Són
-    Tags:  ['verbes', 'verbes::irregular']
-
-[236] Front: Rojo
-    Back:  Vermell / vermella / vermells / vermelles
-    Tags:  ['colors']
-
-[237] Front: Verde
-    Back:  Verd / verda / verds / verdes
-    Tags:  ['colors']
-
-[238] Front: Amarillo
-    Back:  Groc / groga / grocs / grogues
-    Tags:  ['colors']
-
-[239] Front: Medico
-    Back:  Metge / metgessa (doctor/a)
-    Tags:  ['profesiones']
-
-[240] Front: Plomero
-    Back:  Lampista
-    Tags:  ['profesiones']
-
-[241] Front: Cocinero
-    Back:  Cuiner / cuinera / cuiners / cuineres
-    Tags:  ['profesiones']
-
-[242] Front: Hacer
-    Back:  Fer<br><br>Faig <br>Fàs<br>Fa<br>Fem<br>Feu<br>Fan
-    Tags:  ['verbes']
-
-[243] Front: Recomendar
-    Back:  Recomanar
-    Tags:  ['verbes']
-
-[244] Front: Estar
-    Back:  Estar
-    Tags:  ['verbes']
-
-[245] Front: Haber
-    Back:  Haver-hi
-    Tags:  ['verbes']
-
-[246] Front: Delante
-    Back:  Devant
-    Tags:  ['posiciones']
-
-[247] Front: Detras
-    Back:  Derrere
-    Tags:  ['posiciones']
-
-[248] Front: Derecha
-    Back:  Dreta
-    Tags:  ['posiciones']
-
-[249] Front: Izquierda
-    Back:  Esquerra
-    Tags:  ['posiciones']
-
-[250] Front: Entrando
-    Back:  Entrant
-    Tags:  ['posiciones']
-
-[251] Front: Saliendo
-    Back:  Sortint
-    Tags:  ['posiciones']
-
-[252] Front: A dentro
-    Back:  A dins
-    Tags:  ['posiciones']
-
-[253] Front: Afuera
-    Back:  A fora
-    Tags:  ['posiciones']
-
-[254] Front: Al fondo
-    Back:  Al fons/al final
-    Tags:  ['posiciones']
-
-[255] Front: Apellido
-    Back:  Cognom
-    Tags:  []
-
-[256] Front: Edad
-    Back:  Edat
-    Tags:  []
-
-[257] Front: Profesion
-    Back:  Professió
-    Tags:  []
-
-[258] Front: Demandar
-    Back:  Demanar
-    Tags:  ['verbes']
-
-[259] Front: La mesa
-    Back:  La taula
-    Tags:  ['casa']
-
-[260] Front: El comedor
-    Back:  El menjador
-    Tags:  ['casa']
-
-[261] Front: El living
-    Back:  La sala d'estar
-    Tags:  ['casa']
-
-[262] Front: El baño
-    Back:  El bany/lavabo
-    Tags:  ['casa']
-
-[263] Front: Cocina
-    Back:  Cuina
-    Tags:  ['casa']
-
-[264] Front: Garage
-    Back:  El garatge
-    Tags:  ['casa']
-
-[265] Front: Puerta
-    Back:  Porta
-    Tags:  ['casa']
-
-[266] Front: Recibidor
-    Back:  Rebedor
-    Tags:  ['casa']
-
-[267] Front: El lavadero
-    Back:  El safareig
-    Tags:  ['casa']
-
-[268] Front: El pasillo
-    Back:  El passadís
-    Tags:  ['casa']
-
-[269] Front: Año
-    Back:  Any
-    Tags:  ['temps']
-
-[270] Front: El trabajo
-    Back:  La feina
-    Tags:  ['profesiones']
-
-[271] Front: Lejos
-    Back:  Lluny
-    Tags:  ['posiciones']
-
-[272] Front: Cerca
-    Back:  Prop
-    Tags:  ['posiciones']
-
-[273] Front: Largo
-    Back:  Llarg / llarga / llargs / llargues
-    Tags:  ['adjectius', 'posiciones']
-
-[274] Front: Corto
-    Back:  Curt / curta / curts / curtes
-    Tags:  ['adjectius']
-
-[275] Front: Presupuesto
-    Back:  Presupost
-    Tags:  []
-
-[276] Front: Poder
-    Back:  Poder<br><br>Puc<br>Pots<br>Pot<br>Podem <br>Podeu<br>Poden
-    Tags:  []
-
-[277] Front: Posesivos / possessius
+[163] Front: Posesivos / possessius
     Back:  <b>Possessius</b> — masc. / fem. / masc.pl / fem.pl<br><br>meu &nbsp;&nbsp;/ meva &nbsp;&nbsp;/ meus &nbsp;&nbsp;/ meves &nbsp;&nbsp;(mi/mis)<br>teu &nbsp;&nbsp;/ teva &nbsp;&nbsp;/ teus &nbsp;&nbsp;/ teves &nbsp;&nbsp;(tu/tus)<br>seu &nbsp;&nbsp;/ seva &nbsp;&nbsp;/ seus &nbsp;&nbsp;/ seves &nbsp;&nbsp;(su/sus - ell/a)<br>nostre / nostra / nostres / nostres (nuestro/a)<br>vostre / vostra / vostres / vostres (vuestro/a)<br>seu &nbsp;&nbsp;/ seva &nbsp;&nbsp;/ seus &nbsp;&nbsp;/ seves &nbsp;&nbsp;(su/sus - ells/es)
-    Tags:  ['pronoms']
-
-[278] Front: Siempre
-    Back:  Sempre
-    Tags:  ['temps']
-
-[279] Front: Seguido
-    Back:  Sovint
-    Tags:  ['temps']
-
-[280] Front: Aveces
-    Back:  <b>De vegades / a vegades</b> = a veces<br><br><b>Un cop / una vegada</b> = una vez<br><b>Dos cops / dues vegades</b> = dos veces<br><br><i>De vegades surto a córrer</i> (A veces salgo a correr)<br><i>Ho he fet un cop</i> (Lo he hecho una vez)<br><i>Sovint hi vaig, però de vegades no puc</i>
-    Tags:  ['expressions', 'temps']
-
-[281] Front: Fiesta
-    Back:  Festa
     Tags:  []
 
-[282] Front: Verdaderas
-    Back:  Veritable / veritable / veritables / veritables
+[164] Front: Mantel / estovalles
+    Back:  Les estovalles<br><i>(sempre en plural)</i>
     Tags:  []
 
-[283] Front: Falsas
-    Back:  Fals / falsa / falsos / falses
-    Tags:  []
-
-[284] Front: Que, cual
-    Back:  Quin/quina/quines
-    Tags:  ['preguntas']
-
-[285] Front: Como
-    Back:  Com
-    Tags:  ['preguntas']
-
-[286] Front: Ponerse
-    Back:  Posar-se<br><br>Em poso<br>Et poses<br>És posa <br>Ens posem<br>Eu poseu<br>És posen
-    Tags:  ['verbes::irregular']
-
-[287] Front: Ir
-    Back:  Anar<br><br>Vaig<br>Vas<br>Va<br>Anem<br>Aneu<br>Van
-    Tags:  ['verbes::irregular']
-
-[288] Front: Siesta
-    Back:  Migdiada
-    Tags:  []
-
-[289] Front: Teatro
-    Back:  Teatre
-    Tags:  ['llocs']
-
-[290] Front: A mí/a ti/ a el/ a nosotros/ a vostre/ a ells
-    Back:  Em-> me<br>Et -> te<br>Li .. <br>Ens<br>Us<br>Els
-    Tags:  ['pronoms']
-
-[291] Front: Alquiler
-    Back:  Lloger
-    Tags:  ['casa']
-
-[292] Front: Regular -ar
-    Back:  -o<br>-es<br>-a<br>-em<br>-eu<br>-en
-    Tags:  ['verbes']
-
-[293] Front: Caliente
-    Back:  Calent / calenta / calents / calentes
-    Tags:  ['adjectius']
-
-[294] Front: Frio
-    Back:  Fred / freda / freds / fredes
-    Tags:  ['adjectius']
-
-[295] Front: Caluroso
-    Back:  Càlid / càlida / càlids / càlides
-    Tags:  ['adjectius']
-
-[296] Front: Fresco
-    Back:  Fresc / fresca / frescos / fresques
-    Tags:  ['adjectius']
-
-[297] Front: Dulce
-    Back:  Dolç / dolça / dolços / dolces
-    Tags:  ['adjectius']
-
-[298] Front: Salado
-    Back:  Salat / salada / salats / salades
-    Tags:  ['adjectius']
-
-[299] Front: Ensalada
-    Back:  Amanida
-    Tags:  ['alimentació']
-
-[300] Front: Seco
-    Back:  Sec / seca / secs / seques
-    Tags:  ['adjectius']
-
-[301] Front: Duro
-    Back:  Dur / dura / durs / dures
-    Tags:  ['adjectius']
-
-[302] Front: Dieciséis
-    Back:  Setze
-    Tags:  ['numeros']
-
-[303] Front: Segundo
-    Back:  Segon / segona / segons / segones
-    Tags:  ['numeros']
-
-[304] Front: Luna
-    Back:  Lluna
-    Tags:  []
-
-[305] Front: Amigo
-    Back:  Amic / amiga / amics / amigues
-    Tags:  ['relaciones']
-
-[306] Front: Bruja
-    Back:  Bruixa
-    Tags:  []
-
-[307] Front: Escoba
-    Back:  Escombra
-    Tags:  []
-
-[308] Front: Pez
-    Back:  Peix
-    Tags:  ['alimentació']
-
-[309] Front: Perro
-    Back:  Gos
-    Tags:  ['animales']
-
-[310] Front: Luz
-    Back:  Llum
-    Tags:  ['casa']
-
-[311] Front: Ruido
-    Back:  Soroll
-    Tags:  []
-
-[312] Front: Silencio
-    Back:  Silenci
-    Tags:  []
-
-[313] Front: Vecinos
-    Back:  Veí / veïna / veïns / veïnes
-    Tags:  ['relaciones']
-
-[314] Front: Agarrar
-    Back:  Agafar
-    Tags:  ['verbes']
-
-[315] Front: Saber
-    Back:  Saber <br><br>Sé <br>Saps<br>Sap<br>Sabem<br>Sabeu<br>Saben
-    Tags:  ['verbes']
-
-[316] Front: Girar
-    Back:  Tombar/girar
-    Tags:  ['verbes']
-
-[317] Front: Fiebre
-    Back:  Febre
-    Tags:  []
-
-[318] Front: Libro
-    Back:  Llibre
-    Tags:  []
-
-[319] Front: Baja
-    Back:  Baixa
-    Tags:  []
-
-[320] Front: Esquina
-    Back:  Cantonada
-    Tags:  []
-
-[321] Front: Hasta
-    Back:  Fins
-    Tags:  []
-
-[322] Front: Tren<br>Tranvía<br>Autobús<br>Bicicleta<br>Moto<br>Patinete<br>Taxi<br>Coche<br>A pie
-    Back:  Tren<br>Tramvia<br>Autobús<br>Bicicleta<br>Moto<br>El patinet<br>El taxi<br>El cotxe<br>La moto<br>A peu
-    Tags:  ['transport']
-
-[323] Front: Probar
-    Back:  Provar
-    Tags:  ['verbes']
-
-[324] Front: Parar
-    Back:  Aturar
-    Tags:  ['verbes']
-
-[325] Front: Caro
-    Back:  Car / cara / cars / cares
-    Tags:  ['adjectius']
-
-[326] Front: Dificil
-    Back:  Difícil / difícil / difícils / difícils
-    Tags:  ['adjectius']
-
-[327] Front: Cuerpo
-    Back:  Cos
-    Tags:  ['cos']
-
-[328] Front: Cabello
-    Back:  Cabell
-    Tags:  ['cos']
-
-[329] Front: Piel
-    Back:  Pell
-    Tags:  ['cos']
-
-[330] Front: Quedarse
-    Back:  Quedar-se <br><br><br>Em quedo<br>...
-    Tags:  ['verbes']
-
-[331] Front: Lleno/pleno
-    Back:  Ple / plena / plens / plenes
-    Tags:  ['adjectius']
-
-[332] Front: Vacio
-    Back:  Buit / buida / buits / buides
-    Tags:  ['adjectius']
-
-[333] Front: Mismo
-    Back:  Mateix / mateixa / mateixos / mateixes
-    Tags:  []
-
-[334] Front: Azul
-    Back:  Blau / blava / blaus / blaves
-    Tags:  ['colors']
-
-[335] Front: Bailar
-    Back:  Ballar<br><br>
-    Tags:  []
-
-[336] Front: Querer
-    Back:  Voler<br><br>Vull<br>Vols<br>Vol<br>Volem<br>Voleu<br>Volen
-    Tags:  ['verbes']
-
-[337] Front: Beber
-    Back:  Beure<br><br>Bec<br>Veus<br>Beu<br>Bevem<br>Beveu<br>Beuen
-    Tags:  ['verbes']
-
-[338] Front: Fruta<br>Naranja<br>Manzana<br>Banana<br>Avocado<br>Mango<br>Frutilla<br>Cerezas<br>Mandarinas<br>Peras<br>Membrillo
-    Back:  Fruita<br>Toronja<br>Poma<br>Plàntan<br>L'alvocat<br>Mango<br>Maduixes<br>Cireres <br>Mandarines<br>Peres<br>Codony
-    Tags:  ['alimentació']
-
-[339] Front: Verduras<br>Papa/patata<br>Aceituna<br>Ensalada<br>Ajo<br>Pimiento
-    Back:  Verdures <br>Patata<br>Oliva<br>Amanida<br>L'All<br>Ell pebrot<br>El rap (rape)
-    Tags:  ['alimentació']
-
-[340] Front: Licor<br>Vino<br>Birra<br>Agua
-    Back:  Licor<br>Vi negre/blanc/rose<br>Birra <br>Aigua
-    Tags:  ['alimentació']
-
-[341] Front: Huevo<br>Carne de ternera<br>Embutido<br>Lenguado<br>Jamón<br>Pollo<br>Carne de ..<br>Pez<br>Sardinas<br>Salmon<br>Mejillones<br>Calamares<br>Queso<br>Chorizo
-    Back:  Ou<br>Carn de vedella<br>Cansalada/xarcut<br>Llenguado<br>Pernil<br>Pollastre<br>Carn de xai<br>Peix<br>Las sardines <br>El salmó<br>Els muslos<br>Callamars<br>El formatge<br>Xoriço
-    Tags:  ['alimentació']
-
-[342] Front: Pan<br>Torta <br>Chocolate<br>Manteca
-    Back:  Pa<br>Pastís<br>Xocolat<br>Mantega
-    Tags:  ['alimentació']
-
-[343] Front: Remera<br>Zapatos<br>Camisa<br>Pollera<br>Zapatilla<br>Campera<br>Jeans<br>Abrigo<br>Chancletas<br>Pantalones<br>Vestido<br>Jersei / pullover <br>leggin
-    Back:  Samarreta<br>Sabates<br>Camisa<br>Faldilles<br>Vambes<br>Jaqueta<br>Texans<br>Abric<br>Sabatilles<br>Pantalons<br>Vestit<br>Jersei<br>Malles
-    Tags:  ['roba']
-
-[344] Front: Fino<br>Grueso <br>Fresco <br>Congelado<br>Tierno<br>Chico<br>Grande<br>Dulce<br>Salado
-    Back:  Prim<br>Gruixut <br>Fresc <br>Congelat<br>Tendré<br>Petit <br>Gros<br>Dolç<br>Salat
-    Tags:  ['adjectius', 'alimentació']
-
-[345] Front: Alacena
-    Back:  Rebost
-    Tags:  ['casa']
-
-[346] Front: Colores<br>Verde<br>Negro<br>Blanco<br>Bermejo/rojo<br>Azul<br>Gris<br>Amarillo<br>Naranja<br>Rosa
-    Back:  Colors<br>Verd<br>Negre<br>Blanc<br>Vermell/roig<br>Blau<br>Gris<br>Groc<br>Toronja<br>Rosa
-    Tags:  []
-
-[347] Front: Cero<br>Uno<br>Dos<br>Tres<br>Cuatro<br>Cinco<br>Seis<br>Siete<br>Ocho nueve<br>Diez
-    Back:  Zero <br>U<br>Dos<br>Tres<br>Quarta<br>Cinc<br>Sis<br>Set<br>Vuit<br>Nou<br>Deu
-    Tags:  ['numeros']
-
-[348] Front: Once<br>Doce<br>Trece<br>Catorce<br>Quince <br>Dieciséis..
-    Back:  Onze<br>Dotze<br>Tretze<br>Catorze<br>Quinze<br>Setze<br>Disset<br>Divuit<br>Dinou
-    Tags:  ['numeros']
-
-[349] Front: 20<br>30<br>40<br>50<br>60<br>70<br>80<br>90<br>100
-    Back:  Vint<br>Trenta<br>Quaranta<br>Cinquanta<br>Seixanta<br>Setanta<br>Vuitanta<br>Noranta<br>Cent
-    Tags:  ['numeros']
-
-[350] Front: Tijeras de tijera
-    Back:  Les estovalles (mantel)<br>⚠️ plural: les estovalles
-    Tags:  ['casa']
-
-[351] Front: Por favor
+[165] Front: Por favor
     Back:  Si us plau<br><i>(col·loquial: sisplau)</i>
-    Tags:  ['expressions']
+    Tags:  []
 
-[352] Front: Silla
+[166] Front: Silla
     Back:  La cadira / les cadires
-    Tags:  ['casa', 'mobles']
+    Tags:  []
 
-[353] Front: Toalla / servilleta
+[167] Front: Toalla / servilleta
     Back:  La tovalla (toalla)<br>El tovalló (servilleta)
-    Tags:  ['casa']
+    Tags:  []
 
-[354] Front: Albóndigas
+[168] Front: Albóndigas
     Back:  Les mandonguilles
-    Tags:  ['alimentació', 'comidas']
+    Tags:  []
 
-[355] Front: Dorada (pescado)
+[169] Front: Dorada (pescado)
     Back:  L'orada
-    Tags:  ['alimentació']
+    Tags:  []
 
-[356] Front: Miel
+[170] Front: Miel
     Back:  La mel
-    Tags:  ['alimentació']
+    Tags:  []
 
-[357] Front: Frutos secos
+[171] Front: Frutos secos
     Back:  <b>Els fruits secs</b><br><br>La nou (nuez)<br>L'avellana (avellana)<br>L'ametlla (almendra)<br>El pistatxo (pistacho)<br>El cacauet (cacahuete)
-    Tags:  ['alimentació', 'fruits', 'secs']
+    Tags:  []
 
-[358] Front: Partes del cuerpo
+[172] Front: Partes del cuerpo
     Back:  <b>El cos</b><br><br>El cap (cabeza)<br>L'orella (oreja)<br>El coll (cuello)<br>Les mans (manos)<br>Els peus (pies)<br>Les cames (piernas)<br>La panxa (barriga)<br>L'esquena (espalda)<br>El nas (nariz)<br>La boca (boca)<br>Els ulls (ojos)
-    Tags:  ['cos']
+    Tags:  []
 
-[359] Front: Complementos / accesorios
+[173] Front: Complementos / accesorios
     Back:  <b>Complements</b><br><br>El collaret (collar)<br>L'anell (anillo)<br>El braçalet (pulsera)<br>Les arracades (pendientes)<br>Les orelleres (orejeras)<br>El gorro / la gorra (gorro/gorra)<br>La bufanda (bufanda)<br>Els guants (guantes)<br>El casc (casco/helmet)<br>Les botes (botas)<br>Els mitjons (calcetines)<br>Les sandàlies (sandalias)<br>Les xancletes (chanclas)
-    Tags:  ['complements', 'roba']
+    Tags:  []
 
-[360] Front: Números ordinales
+[174] Front: Números ordinales
     Back:  <b>Ordinals</b> — masc. / fem.<br><br>1r primer / 1a primera<br>2n segon / 2a segona<br>3r tercer / 3a tercera<br>4t quart / 4a quarta<br>5è cinquè / 5a cinquena<br>6è sisè / 6a sisena<br>7è setè / 7a setena<br>8è vuitè / 8a vuitena<br>9è novè / 9a novena<br>10è desè / 10a desena
-    Tags:  ['numeros']
+    Tags:  []
 
-[361] Front: Los días de la semana
+[175] Front: Los días de la semana
     Back:  <b>Dies de la setmana</b><br><br>Dilluns &nbsp;&nbsp;· Dl ·&nbsp; (lunes)<br>Dimarts &nbsp;&nbsp;· Dt ·&nbsp; (martes)<br>Dimecres · Dc ·&nbsp; (miércoles)<br>Dijous &nbsp;&nbsp;&nbsp;· Dj ·&nbsp; (jueves)<br>Divendres · Dv ·&nbsp; (viernes)<br>Dissabte &nbsp;· Ds ·&nbsp; (sábado)<br>Diumenge &nbsp;· Dg ·&nbsp; (domingo)
-    Tags:  ['temps']
+    Tags:  []
 
-[362] Front: Los meses del año
+[176] Front: Los meses del año
     Back:  <b>Els mesos de l'any</b><br><br>Gener &nbsp;&nbsp;&nbsp;· Febrer · Març<br>Abril &nbsp;&nbsp;&nbsp;&nbsp;· Maig &nbsp;&nbsp;· Juny<br>Juliol &nbsp;&nbsp;&nbsp;· Agost &nbsp;· Setembre<br>Octubre · Novembre · Desembre
-    Tags:  ['temps']
+    Tags:  []
 
-[363] Front: Las estaciones del año
+[177] Front: Las estaciones del año
     Back:  <b>Les estacions de l'any</b><br><br>🌱 La primavera (primavera)<br>☀️ L'estiu (verano)<br>🍂 La tardor (otoño)<br>❄️ L'hivern (invierno)
-    Tags:  ['temps']
+    Tags:  []
 
 
 ============================================================
@@ -1462,51 +718,51 @@
 
 [1] Front: Hambre / sed
     Back:  La fam (hambre, fem.)<br>La set (sed, fem.)
-    Tags:  ['alimentació']
+    Tags:  []
 
 [2] Front: Frutos secos
     Back:  <b>Els fruits secs</b><br><br>La nou (nuez)<br>L'avellana (avellana)<br>L'ametlla (almendra)<br>El pistatxo (pistacho)<br>El cacauet (cacahuete)
-    Tags:  ['alimentació', 'fruits_secs']
+    Tags:  []
 
 [3] Front: Camarero / cliente
     Back:  El cambrer / la cambrera (camarero/a)<br>El client / la clienta (cliente/a)
-    Tags:  ['alimentació', 'profesiones', 'restauració']
+    Tags:  []
 
 [4] Front: El pronom 'en'
     Back:  <b>En / n'</b> — substitueix un complement amb 'de' o quantitat<br><br><b>Davant vocal → n' (apostrofat)</b><br><br>• Tinc tres llibres → <b>En</b> tinc tres<br>• Vols pa? → Sí, <b>en</b> vull<br>• Parla del treball → <b>En</b> parla molt<br>• Hi ha molts errors → <b>N'</b>hi ha molts<br>• He comprat ous → <b>N'</b>he comprat sis
-    Tags:  ['pronoms', 'pronoms::en']
+    Tags:  []
 
 [5] Front: Trabajos en hostelería
     Back:  <b>Feines de restauració</b><br><br>El cambrer / la cambrera (camarero/a)<br>El caixer / la caixera (cajero/a)<br>L'ajudant de cuina (ayudante de cocina)<br>L'encarregat·da de sala (encargado/a de sala)<br>El personal de neteja (personal de limpieza)<br>L'escombriaire (basurero/a)
-    Tags:  ['profesiones', 'restauració']
+    Tags:  []
 
 [6] Front: Cuenta / cuentas
     Back:  El compte / els comptes
-    Tags:  ['economia']
+    Tags:  []
 
 [7] Front: Parece / parece que
     Back:  Sembla / sembla que...<br><br><i>Sembla que plourà</i> (Parece que lloverá)
-    Tags:  ['expressions']
+    Tags:  []
 
 [8] Front: Entonces / en aquel momento
     Back:  Aleshores<br><br><i>Aleshores, va decidir marxar</i><br>(Entonces, decidió marcharse)
-    Tags:  ['expressions', 'temps']
+    Tags:  []
 
 [9] Front: Cualquier / cualquiera
     Back:  Qualsevol<br><br><i>Qualsevol dia és bo per aprendre</i><br>(Cualquier día es bueno para aprender)
-    Tags:  ['expressions']
+    Tags:  []
 
 [10] Front: Pues / entonces
     Back:  Doncs<br><br><i>Doncs, ens quedem aquí</i><br>(Pues, nos quedamos aquí)
-    Tags:  ['expressions']
+    Tags:  []
 
 [11] Front: Nunca / jamás
     Back:  Mai<br><br><i>Mai he estat a Londres</i> (Nunca he estado en Londres)
-    Tags:  ['expressions', 'temps']
+    Tags:  []
 
 [12] Front: Garaje
     Back:  El garatge
-    Tags:  ['casa', 'llocs']
+    Tags:  []
 
 
 ============================================================
@@ -1514,78 +770,78 @@
 ============================================================
 
 [1] Front: Ser
-    Back:  <b>ser</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ soc<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ ets<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ és<br>nosaltres → som<br>vosaltres &nbsp;→ sou<br>ells/es &nbsp;&nbsp;&nbsp;→ són
+    Back:  <div class="verb-card"><div class="verb-inf">ser</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">soc</td></tr><tr><td class="pronoun">tu</td><td class="form">ets</td></tr><tr><td class="pronoun">ell/a</td><td class="form">és</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">som</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">sou</td></tr><tr><td class="pronoun">ells/es</td><td class="form">són</td></tr></table></div>
     Tags:  ['conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [2] Front: Estar
-    Back:  <b>estar</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ estic<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ estàs<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ està<br>nosaltres → estem<br>vosaltres &nbsp;→ esteu<br>ells/es &nbsp;&nbsp;&nbsp;→ estan
+    Back:  <div class="verb-card"><div class="verb-inf">estar</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">estic</td></tr><tr><td class="pronoun">tu</td><td class="form">estàs</td></tr><tr><td class="pronoun">ell/a</td><td class="form">està</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">estem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">esteu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">estan</td></tr></table></div>
     Tags:  ['conj::-ar', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [3] Front: Tenir
-    Back:  <b>tenir</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ tinc<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ tens<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ té<br>nosaltres → tenim<br>vosaltres &nbsp;→ teniu<br>ells/es &nbsp;&nbsp;&nbsp;→ tenen
+    Back:  <div class="verb-card"><div class="verb-inf">tenir</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">tinc</td></tr><tr><td class="pronoun">tu</td><td class="form">tens</td></tr><tr><td class="pronoun">ell/a</td><td class="form">té</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">tenim</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">teniu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">tenen</td></tr></table></div>
     Tags:  ['conj::-er', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [4] Front: Fer
-    Back:  <b>fer</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ faig<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ fas<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ fa<br>nosaltres → fem<br>vosaltres &nbsp;→ feu<br>ells/es &nbsp;&nbsp;&nbsp;→ fan
+    Back:  <div class="verb-card"><div class="verb-inf">fer</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">faig</td></tr><tr><td class="pronoun">tu</td><td class="form">fas</td></tr><tr><td class="pronoun">ell/a</td><td class="form">fa</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">fem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">feu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">fan</td></tr></table></div>
     Tags:  ['conj::-er', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [5] Front: Anar
-    Back:  <b>anar</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vaig<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vas<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ va<br>nosaltres → anem<br>vosaltres &nbsp;→ aneu<br>ells/es &nbsp;&nbsp;&nbsp;→ van
+    Back:  <div class="verb-card"><div class="verb-inf">anar</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">vaig</td></tr><tr><td class="pronoun">tu</td><td class="form">vas</td></tr><tr><td class="pronoun">ell/a</td><td class="form">va</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">anem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">aneu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">van</td></tr></table></div>
     Tags:  ['conj::-ar', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [6] Front: Querer
-    Back:  <b>voler</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vull<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vols<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vol<br>nosaltres → volem<br>vosaltres &nbsp;→ voleu<br>ells/es &nbsp;&nbsp;&nbsp;→ volen
+    Back:  <div class="verb-card"><div class="verb-inf">voler</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">vull</td></tr><tr><td class="pronoun">tu</td><td class="form">vols</td></tr><tr><td class="pronoun">ell/a</td><td class="form">vol</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">volem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">voleu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">volen</td></tr></table></div>
     Tags:  ['conj::-er', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [7] Front: Poder
-    Back:  <b>poder</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ puc<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ pots<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ pot<br>nosaltres → podem<br>vosaltres &nbsp;→ podeu<br>ells/es &nbsp;&nbsp;&nbsp;→ poden
+    Back:  <div class="verb-card"><div class="verb-inf">poder</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">puc</td></tr><tr><td class="pronoun">tu</td><td class="form">pots</td></tr><tr><td class="pronoun">ell/a</td><td class="form">pot</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">podem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">podeu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">poden</td></tr></table></div>
     Tags:  ['conj::-er', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [8] Front: Saber
-    Back:  <b>saber</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ sé<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ saps<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ sap<br>nosaltres → sabem<br>vosaltres &nbsp;→ sabeu<br>ells/es &nbsp;&nbsp;&nbsp;→ saben
+    Back:  <div class="verb-card"><div class="verb-inf">saber</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">sé</td></tr><tr><td class="pronoun">tu</td><td class="form">saps</td></tr><tr><td class="pronoun">ell/a</td><td class="form">sap</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">sabem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">sabeu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">saben</td></tr></table></div>
     Tags:  ['conj::-er', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [9] Front: Venir
-    Back:  <b>venir</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vinc<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ véns<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vé<br>nosaltres → venim<br>vosaltres &nbsp;→ veniu<br>ells/es &nbsp;&nbsp;&nbsp;→ vénen
+    Back:  <div class="verb-card"><div class="verb-inf">venir</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">vinc</td></tr><tr><td class="pronoun">tu</td><td class="form">véns</td></tr><tr><td class="pronoun">ell/a</td><td class="form">ve</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">venim</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">veniu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">vénen</td></tr></table></div>
     Tags:  ['conj::-ir', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [10] Front: Vivir
-    Back:  <b>viure</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ visc<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ vius<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ viu<br>nosaltres → vivim<br>vosaltres &nbsp;→ viviu<br>ells/es &nbsp;&nbsp;&nbsp;→ viuen
+    Back:  <div class="verb-card"><div class="verb-inf">viure</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">visc</td></tr><tr><td class="pronoun">tu</td><td class="form">vius</td></tr><tr><td class="pronoun">ell/a</td><td class="form">viu</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">vivim</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">viviu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">viuen</td></tr></table></div>
     Tags:  ['conj::-ure', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [11] Front: Creer
-    Back:  <b>creure</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ crec<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ creus<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ creu<br>nosaltres → creiem<br>vosaltres &nbsp;→ creieu<br>ells/es &nbsp;&nbsp;&nbsp;→ creuen
+    Back:  <div class="verb-card"><div class="verb-inf">creure</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">crec</td></tr><tr><td class="pronoun">tu</td><td class="form">creus</td></tr><tr><td class="pronoun">ell/a</td><td class="form">creu</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">creiem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">creieu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">creuen</td></tr></table></div>
     Tags:  ['conj::-ure', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [12] Front: Elegir
-    Back:  <b>escollir</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ escullo<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ escolles<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ escull<br>nosaltres → escolim<br>vosaltres &nbsp;→ escoliu<br>ells/es &nbsp;&nbsp;&nbsp;→ escullen
+    Back:  <div class="verb-card"><div class="verb-inf">escollir</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">escullo</td></tr><tr><td class="pronoun">tu</td><td class="form">escolles</td></tr><tr><td class="pronoun">ell/a</td><td class="form">escull</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">escollim</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">escolliu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">escullen</td></tr></table></div>
     Tags:  ['conj::-ir', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [13] Front: Escribir
-    Back:  <b>escriure</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ escric<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ escrius<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ escriu<br>nosaltres → escrivim<br>vosaltres &nbsp;→ escriviu<br>ells/es &nbsp;&nbsp;&nbsp;→ escriuen
+    Back:  <div class="verb-card"><div class="verb-inf">escriure</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">escric</td></tr><tr><td class="pronoun">tu</td><td class="form">escrius</td></tr><tr><td class="pronoun">ell/a</td><td class="form">escriu</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">escrivim</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">escriviu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">escriuen</td></tr></table></div>
     Tags:  ['conj::-ure', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [14] Front: Decir
-    Back:  <b>dir</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ dic<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ dius<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ diu<br>nosaltres → diem<br>vosaltres &nbsp;→ dieu<br>ells/es &nbsp;&nbsp;&nbsp;→ diuen
+    Back:  <div class="verb-card"><div class="verb-inf">dir</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">dic</td></tr><tr><td class="pronoun">tu</td><td class="form">dius</td></tr><tr><td class="pronoun">ell/a</td><td class="form">diu</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">diem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">dieu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">diuen</td></tr></table></div>
     Tags:  ['conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [15] Front: Llevar
-    Back:  <b>dur</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ duc<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ dus<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ du<br>nosaltres → duem<br>vosaltres &nbsp;→ dueu<br>ells/es &nbsp;&nbsp;&nbsp;→ duen
+    Back:  <div class="verb-card"><div class="verb-inf">dur</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">duc</td></tr><tr><td class="pronoun">tu</td><td class="form">dus</td></tr><tr><td class="pronoun">ell/a</td><td class="form">du</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">duem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">dueu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">duen</td></tr></table></div>
     Tags:  ['conj::-er', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [16] Front: Correr
-    Back:  <b>correr</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ corro<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ corres<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ corre<br>nosaltres → correm<br>vosaltres &nbsp;→ correu<br>ells/es &nbsp;&nbsp;&nbsp;→ corren
+    Back:  <div class="verb-card"><div class="verb-inf">córrer</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">corro</td></tr><tr><td class="pronoun">tu</td><td class="form">corres</td></tr><tr><td class="pronoun">ell/a</td><td class="form">corre</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">correm</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">correu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">corren</td></tr></table></div>
     Tags:  ['conj::-er', 'present', 'verbes', 'verbes::essencials']
 
 [17] Front: Beber
-    Back:  <b>beure</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ bec<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ beus<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ beu<br>nosaltres → bevem<br>vosaltres &nbsp;→ beveu<br>ells/es &nbsp;&nbsp;&nbsp;→ beuen
+    Back:  <div class="verb-card"><div class="verb-inf">beure</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">bec</td></tr><tr><td class="pronoun">tu</td><td class="form">beus</td></tr><tr><td class="pronoun">ell/a</td><td class="form">beu</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">bevem</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">beveu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">beuen</td></tr></table></div>
     Tags:  ['conj::-ure', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [18] Front: Leer
-    Back:  <b>llegir</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ llegeixo<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ llegeixes<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ llegeix<br>nosaltres → llegim<br>vosaltres &nbsp;→ llegiu<br>ells/es &nbsp;&nbsp;&nbsp;→ llegeixen
+    Back:  <div class="verb-card"><div class="verb-inf">llegir</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">llegeixo</td></tr><tr><td class="pronoun">tu</td><td class="form">llegeixes</td></tr><tr><td class="pronoun">ell/a</td><td class="form">llegeix</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">llegim</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">llegiu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">llegeixen</td></tr></table></div>
     Tags:  ['conj::-ir', 'conj::irregular', 'present', 'verbes', 'verbes::essencials']
 
 [19] Front: Dormir
-    Back:  <b>dormir</b><br><br>jo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ dormo<br>tu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ dorms<br>ell/a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ dorm<br>nosaltres → dormim<br>vosaltres &nbsp;→ dormiu<br>ells/es &nbsp;&nbsp;&nbsp;→ dormen
+    Back:  <div class="verb-card"><div class="verb-inf">dormir</div><div class="verb-tense">Present</div><table class="verb-table"><tr><td class="pronoun">jo</td><td class="form">dormo</td></tr><tr><td class="pronoun">tu</td><td class="form">dorms</td></tr><tr><td class="pronoun">ell/a</td><td class="form">dorm</td></tr><tr><td class="pronoun">nosaltres</td><td class="form">dormim</td></tr><tr><td class="pronoun">vosaltres</td><td class="form">dormiu</td></tr><tr><td class="pronoun">ells/es</td><td class="form">dormen</td></tr></table></div>
     Tags:  ['conj::-ir', 'present', 'verbes', 'verbes::essencials']
 

@@ -1,0 +1,217 @@
+=== Fixing card content ===
+
+--- cpnl basic 1 [dev] (177 cards) ---
+  Tagged: [La cama] -> casa
+  Tagged: [La chimenea] -> casa
+  Tagged: [El balcon] -> casa
+  Tagged: [El dormitorio] -> casa
+  Tagged: [La ventana] -> casa
+  Fixed: [Plaza]
+  Tagged: [Plaza] -> llocs
+  Tagged: [Casa] -> llocs
+  Fixed: [Calle]
+  Tagged: [Calle] -> llocs
+  Fixed: [Avenida]
+  Tagged: [Avenida] -> llocs
+  Fixed: [Barrio]
+  Tagged: [Barrio] -> llocs
+  Fixed: [Parque]
+  Tagged: [Parque] -> llocs
+  Tagged: [Negocio] -> llocs
+  Fixed: [Semana]
+  Tagged: [Semana] -> temps
+  Fixed: [Día]
+  Tagged: [Día] -> temps
+  Tagged: [La tarde] -> temps
+  Tagged: [La noche] -> temps
+  Tagged: [Despues] -> temps
+  Tagged: [Padre/madre] -> relaciones
+  Tagged: [Hermano/hermana] -> relaciones
+  Tagged: [Tío/tia] -> relaciones
+  Tagged: [Chico/chica] -> relaciones
+  Tagged: [Ropa] -> roba
+  Tagged: [Escribir] -> verbes
+  Tagged: [Leer] -> verbes
+  Fixed: [Ver]
+  Tagged: [Ver] -> verbes
+  Fixed: [Tener]
+  Tagged: [Tener] -> verbes
+  Tagged: [Amar] -> verbes
+  Fixed: [Vivir]
+  Tagged: [Vivir] -> verbes
+  Tagged: [Salir] -> verbes
+  Tagged: [Entrar] -> verbes
+  Tagged: [La mañana] -> temps
+  Tagged: [El mediodia] -> temps
+  Tagged: [La madrugada] -> temps
+  Tagged: [Desayuno] -> alimentacio
+  Tagged: [Almuerzo] -> alimentacio
+  Tagged: [Merienda] -> alimentacio
+  Tagged: [Cena] -> alimentacio
+  Tagged: [Ahora] -> temps
+  Tagged: [Hoy] -> temps
+  Tagged: [Luego] -> temps
+  Tagged: [Mañana] -> temps
+  Tagged: [Ayer] -> temps
+  Tagged: [Sin] -> expressions
+  Tagged: [Hijo/hija] -> relaciones
+  Tagged: [Primo/prima] -> relaciones
+  Tagged: [Sobrino/sobrina] -> relaciones
+  Tagged: [Dar] -> verbes
+  Tagged: [Llamarse] -> verbes
+  Tagged: [Ser] -> verbes verbes::irregular
+  Tagged: [Rojo] -> colors
+  Tagged: [Verde] -> colors
+  Tagged: [Amarillo] -> colors
+  Fixed: [Medico]
+  Tagged: [Medico] -> profesiones
+  Tagged: [Plomero] -> profesiones
+  Tagged: [Cocinero] -> profesiones
+  Fixed: [Hacer]
+  Tagged: [Hacer] -> verbes
+  Tagged: [Recomendar] -> verbes
+  Fixed: [Estar]
+  Tagged: [Estar] -> verbes
+  Fixed: [Haber]
+  Tagged: [Haber] -> verbes
+  Tagged: [Delante] -> posicions
+  Tagged: [Detras] -> posicions
+  Tagged: [Derecha] -> posicions
+  Tagged: [Izquierda] -> posicions
+  Tagged: [Entrando] -> posicions
+  Tagged: [Saliendo] -> posicions
+  Tagged: [A dentro] -> posicions
+  Tagged: [Afuera] -> posicions
+  Tagged: [Al fondo] -> posicions
+  Tagged: [Apellido] -> vocabulari
+  Fixed: [Edad]
+  Tagged: [Edad] -> vocabulari
+  Tagged: [Profesion] -> profesiones
+  Tagged: [Demandar] -> verbes
+  Tagged: [La mesa] -> casa
+  Tagged: [El comedor] -> casa
+  Tagged: [El living] -> casa
+  Tagged: [El baño] -> casa
+  Tagged: [Cocina] -> casa
+  Tagged: [Garage] -> casa
+  Tagged: [Puerta] -> casa
+  Tagged: [Recibidor] -> casa
+  Tagged: [El lavadero] -> casa
+  Tagged: [El pasillo] -> casa
+  Tagged: [Año] -> temps
+  Tagged: [El trabajo] -> profesiones
+  Tagged: [Lejos] -> posicions
+  Tagged: [Cerca] -> posicions
+  Tagged: [Largo] -> adjectius
+  Tagged: [Corto] -> adjectius
+  Tagged: [Presupuesto] -> economia
+  Tagged: [Poder] -> verbes
+  Tagged: [Siempre] -> temps
+  Tagged: [Seguido] -> temps
+  Tagged: [Aveces] -> expressions temps
+  Fixed: [Fiesta]
+  Tagged: [Fiesta] -> vocabulari
+  Tagged: [Verdaderas] -> adjectius
+  Tagged: [Falsas] -> adjectius
+  Fixed: [Ponerse]
+  Tagged: [Ponerse] -> verbes verbes::irregular
+  Fixed: [Ir]
+  Tagged: [Ir] -> verbes verbes::irregular
+  Tagged: [Siesta] -> temps
+  Fixed: [Teatro]
+  Tagged: [Teatro] -> llocs
+  Fixed: [A mí / a ti / a ell / a nosaltres...]
+  Tagged: [A mí / a ti / a ell / a nosaltres...] -> pronoms
+  Tagged: [Alquiler] -> casa
+  Tagged: [Regular -ar] -> verbes
+  Tagged: [Caliente] -> adjectius
+  Tagged: [Frio] -> adjectius
+  Tagged: [Caluroso] -> adjectius
+  Tagged: [Fresco] -> adjectius
+  Tagged: [Dulce] -> adjectius
+  Tagged: [Salado] -> adjectius
+  Tagged: [Ensalada] -> alimentacio
+  Tagged: [Seco] -> adjectius
+  Tagged: [Duro] -> adjectius
+  Tagged: [Dieciséis] -> numeros
+  Tagged: [Segundo] -> numeros
+  Tagged: [Luna] -> vocabulari
+  Tagged: [Amigo] -> relaciones
+  Fixed: [Bruja]
+  Tagged: [Bruja] -> vocabulari
+  Tagged: [Escoba] -> casa
+  Tagged: [Pez] -> alimentacio
+  Tagged: [Perro] -> animals
+  Tagged: [Luz] -> casa
+  Tagged: [Ruido] -> vocabulari
+  Tagged: [Silencio] -> vocabulari
+  Tagged: [Vecinos] -> relaciones
+  Tagged: [Agarrar] -> verbes
+  Fixed: [Saber]
+  Tagged: [Saber] -> verbes
+  Tagged: [Girar] -> verbes
+  Tagged: [Fiebre] -> cos
+  Tagged: [Libro] -> vocabulari
+  Fixed: [Baja]
+  Tagged: [Baja] -> adjectius
+  Tagged: [Esquina] -> llocs
+  Tagged: [Hasta] -> expressions
+  Tagged: [Probar] -> verbes
+  Tagged: [Parar] -> verbes
+  Tagged: [Caro] -> adjectius
+  Tagged: [Dificil] -> adjectius
+  Fixed: [Cuerpo]
+  Tagged: [Cuerpo] -> cos
+  Fixed: [Cabello]
+  Tagged: [Cabello] -> cos
+  Fixed: [Piel]
+  Tagged: [Piel] -> cos
+  Fixed: [Quedarse]
+  Tagged: [Quedarse] -> verbes
+  Tagged: [Lleno/pleno] -> adjectius
+  Tagged: [Vacio] -> adjectius
+  Tagged: [Mismo] -> adjectius
+  Tagged: [Azul] -> colors
+  Tagged: [Bailar] -> verbes
+  Fixed: [Querer]
+  Tagged: [Querer] -> verbes
+  Fixed: [Beber]
+  Tagged: [Beber] -> verbes
+  Fixed: [Alacena]
+  Tagged: [Alacena] -> casa
+  Fixed: [Posesivos / possessius]
+  Tagged: [Posesivos / possessius] -> pronoms
+  Fixed: [Mantel / estovalles]
+  Tagged: [Mantel / estovalles] -> casa
+  Fixed: [Por favor]
+  Tagged: [Por favor] -> expressions
+  Tagged: [Silla] -> casa mobles
+  Fixed: [Toalla / servilleta]
+  Tagged: [Toalla / servilleta] -> casa
+  Tagged: [Albóndigas] -> alimentacio
+  Tagged: [Dorada (pescado)] -> alimentacio
+  Tagged: [Miel] -> alimentacio
+  Fixed: [Frutos secos]
+  Tagged: [Frutos secos] -> alimentacio
+  Fixed: [Partes del cuerpo]
+  Tagged: [Partes del cuerpo] -> cos
+  Fixed: [Complementos / accesorios]
+  Tagged: [Complementos / accesorios] -> roba complements
+  Tagged: [Números ordinales] -> numeros
+  Fixed: [Los días de la semana]
+  Tagged: [Los días de la semana] -> temps
+  Tagged: [Los meses del año] -> temps
+  Fixed: [Las estaciones del año]
+  Tagged: [Las estaciones del año] -> temps
+
+--- cpnl bàsic 2 [dev] (12 cards) ---
+  Fixed: [Hambre / sed]
+  Fixed: [Frutos secos]
+  Tagged: [Frutos secos] -> alimentacio
+  Fixed: [Camarero / cliente]
+  Fixed: [Trabajos en hostelería]
+  Fixed: [Parece / parece que]
+  Fixed: [Entonces / en aquel momento]
+  Fixed: [Cualquier / cualquiera]
+  Fixed: [Pues / entonces]
+  Fixed: [Nunca / jamás]
