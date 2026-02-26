@@ -1,0 +1,16 @@
+=== cpnl bàsic 2 [dev] ===
+Hambre/sed --> La fam<br>La set | Tags: ['alimentació']
+Frutos secos<br><br>Nuez<br>Avellana<br>Almendra --> Fruits secs<br><br>Nou<br>Avellana <br>..  | Tags: []
+Mozo/cliente --> Cambrer<br>Client | Tags: ['alimentació', 'profesiones']
+El pronom 'en' --> <b>En / n'</b> — substitueix un complement amb 'de' o quantitat<br><br><b>Davant vocal → n' (apostrofat)</b><br><br>• Tinc tres llibres → <b>En</b> tinc tres<br>• Vols pa? → Sí, <b>en</b> vull<br>• Parla del treball → <b>En</b> parla molt<br>• Hi ha molts errors → <b>N'</b>hi ha molts<br>• He comprat ous → <b>N'</b>he comprat sis | Tags: ['pronoms', 'pronoms::en']
+Trabajos en hostelería --> <b>Feines de restauració</b><br><br>El cambrer / la cambrera (camarero/a)<br>El caixer / la caixera (cajero/a)<br>L'ajudant de cuina (ayudante de cocina)<br>L'encarregat·da de sala (encargado/a de sala)<br>El personal de neteja (personal de limpieza)<br>L'escombriaire (basurero/a) | Tags: ['profesiones', 'restauració']
+Cuenta / cuentas --> El compte / els comptes | Tags: ['economia']
+Parece / parece que --> Sembla / sembla que...<br><br><i>Sembla que plourà</i> (Parece que lloverá) | Tags: ['expressions']
+Entonces / en aquel momento --> Aleshores<br><br><i>Aleshores, va decidir marxar</i><br>(Entonces, decidió marcharse) | Tags: ['expressions', 'temps']
+Cualquier / cualquiera --> Qualsevol<br><br><i>Qualsevol dia és bo per aprendre</i><br>(Cualquier día es bueno para aprender) | Tags: ['expressions']
+Pues / entonces --> Doncs<br><br><i>Doncs, ens quedem aquí</i><br>(Pues, nos quedamos aquí) | Tags: ['expressions']
+Nunca / jamás --> Mai<br><br><i>Mai he estat a Londres</i> (Nunca he estado en Londres) | Tags: ['expressions', 'temps']
+Garaje --> El garatge | Tags: ['casa', 'llocs']
+
+=== cpnl basic 1 [dev] - fruits secs ===
+Frutos secos --> <b>Els fruits secs</b><br><br>La nou (nuez)<br>L'avellana (avellana)<br>L'ametlla (almendra)<br>El pistatxo (pistacho)<br>El cacauet (cacahuete) | Tags: ['alimentació', 'fruits', 'secs']
