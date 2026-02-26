@@ -1,0 +1,50 @@
+Fixed: [Negocio]
+Fixed: [La noche]
+Fixed: [Despues]
+Fixed: [Padre/madre]
+Fixed: [Tío/tia]
+Fixed: [Ropa]
+Fixed: [Entrar]
+Fixed: [Hoy]
+Fixed: [Sin]
+Fixed: [Delante]
+Fixed: [Detras]
+Fixed: [Apellido]
+Fixed: [Edad]
+Fixed: [Profesion]
+Fixed: [Cocina]
+Fixed: [Puerta]
+Fixed: [Recibidor]
+Fixed: [Presupuesto]
+Fixed: [Fiesta]
+Fixed: [Siesta]
+Tagged: [Siesta] -> temps
+Fixed: [Alquiler]
+Fixed: [Ensalada]
+Fixed: [Luna]
+Tagged: [Luna] -> natura
+Tagged: [Bruja] -> vocabulari
+Fixed: [Escoba]
+Tagged: [Escoba] -> casa
+Fixed: [Pez]
+Fixed: [Perro]
+Fixed: [Ruido]
+Tagged: [Ruido] -> casa
+Fixed: [Silencio]
+Tagged: [Silencio] -> vocabulari
+Fixed: [Fiebre]
+Tagged: [Fiebre] -> cos
+Fixed: [Libro]
+Tagged: [Libro] -> objectes
+Fixed: [Baja]
+Tagged: [Baja] -> adjectius
+Fixed: [Esquina]
+Tagged: [Esquina] -> llocs
+Tagged: [Hasta] -> expressions
+Fixed: [Quedarse]
+Tagged: [Mismo] -> adjectius
+Fixed: [Bailar]
+Tagged: [Bailar] -> verbes
+Fixed estovalles card
+
+Done! Fixed 35, tagged 13. Deck now has 177 cards.
